@@ -1,0 +1,4502 @@
+[
+  {
+    "question": "Do you accept coupons for 2% Milk?",
+    "answer": "2% Milk is gluten-free. Please check the packaging for specific details."
+  },
+  {
+    "question": "What are your store hours to buy Coca-Cola?",
+    "answer": "Coca-Cola is vegetarian-friendly."
+  },
+  {
+    "question": "Can I get nutritional info for Lay's Classic?",
+    "answer": "Yes, we have a sugar-free version of Lay's Classic available."
+  },
+  {
+    "question": "What is the expiration date policy for Tylenol?",
+    "answer": "We accept most manufacturer coupons for Tylenol."
+  },
+  {
+    "question": "Do you have deals on Totino's Pizza Rolls today?",
+    "answer": "Totino's Pizza Rolls comes in regular and large sizes."
+  },
+  {
+    "question": "Do you have sugar-free versions of Snickers Bar?",
+    "answer": "There is a purchase limit of 5 per customer for Snickers Bar."
+  },
+  {
+    "question": "Do you have deals on Ben & Jerry's today?",
+    "answer": "The price of Ben & Jerry's varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "Do you have Ben & Jerry's in stock?",
+    "answer": "Ben & Jerry's comes in regular and large sizes."
+  },
+  {
+    "question": "What are your store hours to buy Turkey Sandwich?",
+    "answer": "There is a purchase limit of 5 per customer for Turkey Sandwich."
+  },
+  {
+    "question": "Can I pay for M&M's with a gift card?",
+    "answer": "The price of M&M's varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "Is Frosted Flakes available at 7-Eleven right now?",
+    "answer": "We usually carry Frosted Flakes. Please check your local 7-Eleven for real-time inventory."
+  },
+  {
+    "question": "Can I order Pepsi online for pickup?",
+    "answer": "Bulk packages of Pepsi are available at select locations."
+  },
+  {
+    "question": "Do you offer a loyalty program for buying Powerball Ticket?",
+    "answer": "We are happy to heat up your Powerball Ticket for you in-store."
+  },
+  {
+    "question": "How fresh is your Visa Gift Card?",
+    "answer": "You can find full nutritional info for Visa Gift Card on the manufacturer's site or in-store."
+  },
+  {
+    "question": "Do you offer a loyalty program for buying Lay's Classic?",
+    "answer": "Yes, Lay's Classic is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "Can I return Lay's Classic if I'm not satisfied?",
+    "answer": "You get a discount when you buy 3 or more Lay's Classic."
+  },
+  {
+    "question": "Can I return Red Bull if I'm not satisfied?",
+    "answer": "Yes, we have a sugar-free version of Red Bull available."
+  },
+  {
+    "question": "Is there a limit on how many Powerball Ticket I can buy?",
+    "answer": "Gift cards can be used to purchase Powerball Ticket."
+  },
+  {
+    "question": "Can I order Monster Energy online for pickup?",
+    "answer": "Monster Energy is vegetarian-friendly."
+  },
+  {
+    "question": "Is there a limit on how many Cheese Pizza I can buy?",
+    "answer": "We are happy to heat up your Cheese Pizza for you in-store."
+  },
+  {
+    "question": "Can I get Tylenol heated up in-store?",
+    "answer": "You can find full nutritional info for Tylenol on the manufacturer's site or in-store."
+  },
+  {
+    "question": "Do you sell Snickers Bar in bulk?",
+    "answer": "Store hours may vary; please check online to see when you can buy Snickers Bar."
+  },
+  {
+    "question": "Is there a discount for buying multiple Visa Gift Card?",
+    "answer": "Unopened Visa Gift Card can be returned with a receipt within 7 days."
+  },
+  {
+    "question": "Does The New York Times contain nuts?",
+    "answer": "You can order The New York Times online through our website or app for pickup."
+  },
+  {
+    "question": "Can I return Yoplait Yogurt if I'm not satisfied?",
+    "answer": "The price of Yoplait Yogurt varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "Do you offer a loyalty program for buying Big Bite Hot Dog?",
+    "answer": "Big Bite Hot Dog is included in our $5 meal deal today!"
+  },
+  {
+    "question": "How much does a Heinz Ketchup cost?",
+    "answer": "We accept most manufacturer coupons for Heinz Ketchup."
+  },
+  {
+    "question": "Is Frosted Flakes available at 7-Eleven right now?",
+    "answer": "There is a purchase limit of 5 per customer for Frosted Flakes."
+  },
+  {
+    "question": "Do you offer a loyalty program for buying Big Bite Hot Dog?",
+    "answer": "Big Bite Hot Dog may contain traces of nuts. Always read the ingredient list before purchasing."
+  },
+  {
+    "question": "Is 2% Milk part of your meal deals?",
+    "answer": "You can find full nutritional info for 2% Milk on the manufacturer's site or in-store."
+  },
+  {
+    "question": "Do you have sugar-free versions of Heinz Ketchup?",
+    "answer": "There is a purchase limit of 5 per customer for Heinz Ketchup."
+  },
+  {
+    "question": "Is there a limit on how many Pepsi I can buy?",
+    "answer": "We have a 2-for-1 deal on Pepsi today!"
+  },
+  {
+    "question": "Do you have deals on Stouffer's Mac & Cheese today?",
+    "answer": "Stouffer's Mac & Cheese is included in our $5 meal deal today!"
+  },
+  {
+    "question": "Do you have Totino's Pizza Rolls in stock?",
+    "answer": "Totino's Pizza Rolls is gluten-free. Please check the packaging for specific details."
+  },
+  {
+    "question": "Can I pay for Wonder Bread with a gift card?",
+    "answer": "The price of Wonder Bread varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "Do you have sugar-free versions of Turkey Sandwich?",
+    "answer": "The price of Turkey Sandwich varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "Does Turkey Sandwich contain nuts?",
+    "answer": "Unopened Turkey Sandwich can be returned with a receipt within 7 days."
+  },
+  {
+    "question": "Do you have sugar-free versions of Tylenol?",
+    "answer": "Tylenol is gluten-free. Please check the packaging for specific details."
+  },
+  {
+    "question": "Is Red Bull kept refrigerated?",
+    "answer": "Yes, Red Bull is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "Do you have Ricola Cough Drops in stock?",
+    "answer": "Bulk packages of Ricola Cough Drops are available at select locations."
+  },
+  {
+    "question": "Can I return Cheese Pizza if I'm not satisfied?",
+    "answer": "Gift cards can be used to purchase Cheese Pizza."
+  },
+  {
+    "question": "Can I order Tylenol online for pickup?",
+    "answer": "Tylenol is stored refrigerated for best freshness."
+  },
+  {
+    "question": "Is Lipton Iced Tea part of your meal deals?",
+    "answer": "Lipton Iced Tea comes in regular and large sizes."
+  },
+  {
+    "question": "What is the expiration date policy for M&M's?",
+    "answer": "We usually carry M&M's. Please check your local 7-Eleven for real-time inventory."
+  },
+  {
+    "question": "Do you accept coupons for Totino's Pizza Rolls?",
+    "answer": "We have a 2-for-1 deal on Totino's Pizza Rolls today!"
+  },
+  {
+    "question": "Is Lay's Classic part of your meal deals?",
+    "answer": "We are happy to heat up your Lay's Classic for you in-store."
+  },
+  {
+    "question": "What size options do you have for 2% Milk?",
+    "answer": "Yes, we have a sugar-free version of 2% Milk available."
+  },
+  {
+    "question": "What are your store hours to buy Wonder Bread?",
+    "answer": "Wonder Bread is delivered fresh daily to our stores."
+  },
+  {
+    "question": "Does Big Bite Hot Dog contain nuts?",
+    "answer": "We usually carry Big Bite Hot Dog. Please check your local 7-Eleven for real-time inventory."
+  },
+  {
+    "question": "Is there a limit on how many Doritos I can buy?",
+    "answer": "Doritos may contain traces of nuts. Always read the ingredient list before purchasing."
+  },
+  {
+    "question": "Are there any allergens in Advil?",
+    "answer": "We accept most manufacturer coupons for Advil."
+  },
+  {
+    "question": "Can I return Ben & Jerry's if I'm not satisfied?",
+    "answer": "Ben & Jerry's is delivered fresh daily to our stores."
+  },
+  {
+    "question": "Can I order Visa Gift Card online for pickup?",
+    "answer": "Store hours may vary; please check online to see when you can buy Visa Gift Card."
+  },
+  {
+    "question": "What is the expiration date policy for Energizer AA Batteries?",
+    "answer": "Energizer AA Batteries may contain traces of nuts. Always read the ingredient list before purchasing."
+  },
+  {
+    "question": "What are your store hours to buy Red Bull?",
+    "answer": "Please check the label on Red Bull for detailed allergen information."
+  },
+  {
+    "question": "Is Cheese Pizza available at 7-Eleven right now?",
+    "answer": "You can order Cheese Pizza online through our website or app for pickup."
+  },
+  {
+    "question": "Is Ricola Cough Drops kept refrigerated?",
+    "answer": "Ricola Cough Drops comes in regular and large sizes."
+  },
+  {
+    "question": "Is Ben & Jerry's kept refrigerated?",
+    "answer": "Yes, we have a sugar-free version of Ben & Jerry's available."
+  },
+  {
+    "question": "Do you sell Tylenol in bulk?",
+    "answer": "The price of Tylenol varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "How fresh is your Powerball Ticket?",
+    "answer": "Bulk packages of Powerball Ticket are available at select locations."
+  },
+  {
+    "question": "Is Tylenol kept refrigerated?",
+    "answer": "We are happy to heat up your Tylenol for you in-store."
+  },
+  {
+    "question": "Can I return Ricola Cough Drops if I'm not satisfied?",
+    "answer": "Our loyalty program gives you points when you buy Ricola Cough Drops."
+  },
+  {
+    "question": "Do you offer a loyalty program for buying Yoplait Yogurt?",
+    "answer": "Gift cards can be used to purchase Yoplait Yogurt."
+  },
+  {
+    "question": "Do you have sugar-free versions of Cheese Pizza?",
+    "answer": "Cheese Pizza is included in our $5 meal deal today!"
+  },
+  {
+    "question": "How fresh is your Energizer AA Batteries?",
+    "answer": "We have a 2-for-1 deal on Energizer AA Batteries today!"
+  },
+  {
+    "question": "Do you accept coupons for Visa Gift Card?",
+    "answer": "Bulk packages of Visa Gift Card are available at select locations."
+  },
+  {
+    "question": "Do you sell Cheese Pizza in bulk?",
+    "answer": "The price of Cheese Pizza varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "Do you have Wonder Bread in stock?",
+    "answer": "You can find full nutritional info for Wonder Bread on the manufacturer's site or in-store."
+  },
+  {
+    "question": "Do you accept coupons for Doritos?",
+    "answer": "We ensure all Doritos sold is within its expiration date."
+  },
+  {
+    "question": "Can I pay for Tylenol with a gift card?",
+    "answer": "Tylenol is vegetarian-friendly."
+  },
+  {
+    "question": "Do you have Pepsi in stock?",
+    "answer": "Bulk packages of Pepsi are available at select locations."
+  },
+  {
+    "question": "Can I get nutritional info for Powerball Ticket?",
+    "answer": "Powerball Ticket may contain traces of nuts. Always read the ingredient list before purchasing."
+  },
+  {
+    "question": "Do you have sugar-free versions of Extra Gum?",
+    "answer": "We are happy to heat up your Extra Gum for you in-store."
+  },
+  {
+    "question": "How fresh is your Yoplait Yogurt?",
+    "answer": "Yoplait Yogurt is stored refrigerated for best freshness."
+  },
+  {
+    "question": "Is Wonder Bread part of your meal deals?",
+    "answer": "There is a purchase limit of 5 per customer for Wonder Bread."
+  },
+  {
+    "question": "Is Maruchan Ramen suitable for vegetarians?",
+    "answer": "Yes, Maruchan Ramen is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "Can I return Cinnamon Roll if I'm not satisfied?",
+    "answer": "Cinnamon Roll is vegetarian-friendly."
+  },
+  {
+    "question": "Do you accept coupons for Cheese Pizza?",
+    "answer": "We have a 2-for-1 deal on Cheese Pizza today!"
+  },
+  {
+    "question": "Do you have sugar-free versions of Monster Energy?",
+    "answer": "You can find full nutritional info for Monster Energy on the manufacturer's site or in-store."
+  },
+  {
+    "question": "How fresh is your Pepsi?",
+    "answer": "You get a discount when you buy 3 or more Pepsi."
+  },
+  {
+    "question": "Is Powerball Ticket kept refrigerated?",
+    "answer": "Powerball Ticket is included in our $5 meal deal today!"
+  },
+  {
+    "question": "Do you sell The New York Times in bulk?",
+    "answer": "The New York Times is delivered fresh daily to our stores."
+  },
+  {
+    "question": "Does Wonder Bread contain nuts?",
+    "answer": "You can find full nutritional info for Wonder Bread on the manufacturer's site or in-store."
+  },
+  {
+    "question": "Do you have Stouffer's Mac & Cheese in stock?",
+    "answer": "The price of Stouffer's Mac & Cheese varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "Is Glazed Donut available at 7-Eleven right now?",
+    "answer": "We accept most manufacturer coupons for Glazed Donut."
+  },
+  {
+    "question": "Do you have Energizer AA Batteries in stock?",
+    "answer": "We ensure all Energizer AA Batteries sold is within its expiration date."
+  },
+  {
+    "question": "Do you accept coupons for Lay's Classic?",
+    "answer": "Lay's Classic comes in regular and large sizes."
+  },
+  {
+    "question": "Can I pay for Ricola Cough Drops with a gift card?",
+    "answer": "We have a 2-for-1 deal on Ricola Cough Drops today!"
+  },
+  {
+    "question": "Do you have deals on Big Bite Hot Dog today?",
+    "answer": "Yes, we have a sugar-free version of Big Bite Hot Dog available."
+  },
+  {
+    "question": "Can I get Totino's Pizza Rolls heated up in-store?",
+    "answer": "We accept most manufacturer coupons for Totino's Pizza Rolls."
+  },
+  {
+    "question": "Can I order Red Bull online for pickup?",
+    "answer": "We usually carry Red Bull. Please check your local 7-Eleven for real-time inventory."
+  },
+  {
+    "question": "Can I order Totino's Pizza Rolls online for pickup?",
+    "answer": "Please check the label on Totino's Pizza Rolls for detailed allergen information."
+  },
+  {
+    "question": "Are there any allergens in Ben & Jerry's?",
+    "answer": "You can find full nutritional info for Ben & Jerry's on the manufacturer's site or in-store."
+  },
+  {
+    "question": "Is Lay's Classic gluten-free?",
+    "answer": "You can find full nutritional info for Lay's Classic on the manufacturer's site or in-store."
+  },
+  {
+    "question": "Is Yoplait Yogurt gluten-free?",
+    "answer": "Yoplait Yogurt may contain traces of nuts. Always read the ingredient list before purchasing."
+  },
+  {
+    "question": "Do you have Pepsi in stock?",
+    "answer": "Our loyalty program gives you points when you buy Pepsi."
+  },
+  {
+    "question": "Do you have Wonder Bread in stock?",
+    "answer": "Yes, Wonder Bread is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "Are there any allergens in Stouffer's Mac & Cheese?",
+    "answer": "Stouffer's Mac & Cheese is included in our $5 meal deal today!"
+  },
+  {
+    "question": "Can I get nutritional info for Dozen Eggs?",
+    "answer": "The price of Dozen Eggs varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "Can I get nutritional info for Ben & Jerry's?",
+    "answer": "Ben & Jerry's comes in regular and large sizes."
+  },
+  {
+    "question": "Can I order Heinz Ketchup online for pickup?",
+    "answer": "Yes, Heinz Ketchup is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "Do you have sugar-free versions of The New York Times?",
+    "answer": "We accept most manufacturer coupons for The New York Times."
+  },
+  {
+    "question": "Is there a discount for buying multiple Doritos?",
+    "answer": "There is a purchase limit of 5 per customer for Doritos."
+  },
+  {
+    "question": "Do you offer a loyalty program for buying Tylenol?",
+    "answer": "We accept most manufacturer coupons for Tylenol."
+  },
+  {
+    "question": "Is there a limit on how many Tylenol I can buy?",
+    "answer": "Tylenol is included in our $5 meal deal today!"
+  },
+  {
+    "question": "Is Frosted Flakes part of your meal deals?",
+    "answer": "Frosted Flakes is vegetarian-friendly."
+  },
+  {
+    "question": "Do you have deals on Frosted Flakes today?",
+    "answer": "We usually carry Frosted Flakes. Please check your local 7-Eleven for real-time inventory."
+  },
+  {
+    "question": "Is Starbucks Coffee available at 7-Eleven right now?",
+    "answer": "Our loyalty program gives you points when you buy Starbucks Coffee."
+  },
+  {
+    "question": "Can I pay for Totino's Pizza Rolls with a gift card?",
+    "answer": "We usually carry Totino's Pizza Rolls. Please check your local 7-Eleven for real-time inventory."
+  },
+  {
+    "question": "Is there a limit on how many Tylenol I can buy?",
+    "answer": "Yes, we have a sugar-free version of Tylenol available."
+  },
+  {
+    "question": "Do you have Totino's Pizza Rolls in stock?",
+    "answer": "Totino's Pizza Rolls is gluten-free. Please check the packaging for specific details."
+  },
+  {
+    "question": "Can I order Glazed Donut online for pickup?",
+    "answer": "Glazed Donut comes in regular and large sizes."
+  },
+  {
+    "question": "Can I order Extra Gum online for pickup?",
+    "answer": "Our loyalty program gives you points when you buy Extra Gum."
+  },
+  {
+    "question": "Is Ben & Jerry's part of your meal deals?",
+    "answer": "Ben & Jerry's may contain traces of nuts. Always read the ingredient list before purchasing."
+  },
+  {
+    "question": "Do you have sugar-free versions of Turkey Sandwich?",
+    "answer": "Turkey Sandwich may contain traces of nuts. Always read the ingredient list before purchasing."
+  },
+  {
+    "question": "Does Glazed Donut contain nuts?",
+    "answer": "Glazed Donut is gluten-free. Please check the packaging for specific details."
+  },
+  {
+    "question": "Is there a limit on how many Advil I can buy?",
+    "answer": "Please check the label on Advil for detailed allergen information."
+  },
+  {
+    "question": "Can I order Starbucks Coffee online for pickup?",
+    "answer": "We accept most manufacturer coupons for Starbucks Coffee."
+  },
+  {
+    "question": "Do you have People Magazine in stock?",
+    "answer": "You can order People Magazine online through our website or app for pickup."
+  },
+  {
+    "question": "Is there a discount for buying multiple Lipton Iced Tea?",
+    "answer": "Yes, we have a sugar-free version of Lipton Iced Tea available."
+  },
+  {
+    "question": "Can I get nutritional info for Stouffer's Mac & Cheese?",
+    "answer": "You get a discount when you buy 3 or more Stouffer's Mac & Cheese."
+  },
+  {
+    "question": "Can I order Lipton Iced Tea online for pickup?",
+    "answer": "Our loyalty program gives you points when you buy Lipton Iced Tea."
+  },
+  {
+    "question": "Do you offer a loyalty program for buying Snickers Bar?",
+    "answer": "Bulk packages of Snickers Bar are available at select locations."
+  },
+  {
+    "question": "Is Glazed Donut part of your meal deals?",
+    "answer": "Glazed Donut is included in our $5 meal deal today!"
+  },
+  {
+    "question": "How much does a Stouffer's Mac & Cheese cost?",
+    "answer": "Stouffer's Mac & Cheese comes in regular and large sizes."
+  },
+  {
+    "question": "Can I order Yoplait Yogurt online for pickup?",
+    "answer": "We ensure all Yoplait Yogurt sold is within its expiration date."
+  },
+  {
+    "question": "Is there a limit on how many Lay's Classic I can buy?",
+    "answer": "We accept most manufacturer coupons for Lay's Classic."
+  },
+  {
+    "question": "Do you have sugar-free versions of Red Bull?",
+    "answer": "Gift cards can be used to purchase Red Bull."
+  },
+  {
+    "question": "Is there a limit on how many Lay's Classic I can buy?",
+    "answer": "Lay's Classic is gluten-free. Please check the packaging for specific details."
+  },
+  {
+    "question": "Can I get Totino's Pizza Rolls heated up in-store?",
+    "answer": "We usually carry Totino's Pizza Rolls. Please check your local 7-Eleven for real-time inventory."
+  },
+  {
+    "question": "Is there a discount for buying multiple Doritos?",
+    "answer": "Doritos may contain traces of nuts. Always read the ingredient list before purchasing."
+  },
+  {
+    "question": "Do you sell Advil in bulk?",
+    "answer": "Advil is gluten-free. Please check the packaging for specific details."
+  },
+  {
+    "question": "How much does a Cheese Pizza cost?",
+    "answer": "Store hours may vary; please check online to see when you can buy Cheese Pizza."
+  },
+  {
+    "question": "Can I get nutritional info for Yoplait Yogurt?",
+    "answer": "Yoplait Yogurt may contain traces of nuts. Always read the ingredient list before purchasing."
+  },
+  {
+    "question": "Is M&M's suitable for vegetarians?",
+    "answer": "Our loyalty program gives you points when you buy M&M's."
+  },
+  {
+    "question": "Is Wonder Bread kept refrigerated?",
+    "answer": "Wonder Bread is vegetarian-friendly."
+  },
+  {
+    "question": "Can I get nutritional info for The New York Times?",
+    "answer": "The New York Times comes in regular and large sizes."
+  },
+  {
+    "question": "Does Extra Gum contain nuts?",
+    "answer": "We are happy to heat up your Extra Gum for you in-store."
+  },
+  {
+    "question": "What is the expiration date policy for Doritos?",
+    "answer": "Bulk packages of Doritos are available at select locations."
+  },
+  {
+    "question": "Do you accept coupons for Coca-Cola?",
+    "answer": "Yes, we have a sugar-free version of Coca-Cola available."
+  },
+  {
+    "question": "Is Red Bull kept refrigerated?",
+    "answer": "We have a 2-for-1 deal on Red Bull today!"
+  },
+  {
+    "question": "What size options do you have for Yoplait Yogurt?",
+    "answer": "Yoplait Yogurt is included in our $5 meal deal today!"
+  },
+  {
+    "question": "Do you have sugar-free versions of Visa Gift Card?",
+    "answer": "Visa Gift Card is stored refrigerated for best freshness."
+  },
+  {
+    "question": "Do you accept coupons for Advil?",
+    "answer": "The price of Advil varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "Can I order Visa Gift Card online for pickup?",
+    "answer": "We have a 2-for-1 deal on Visa Gift Card today!"
+  },
+  {
+    "question": "How fresh is your Cinnamon Roll?",
+    "answer": "Yes, we have a sugar-free version of Cinnamon Roll available."
+  },
+  {
+    "question": "Can I get Doritos heated up in-store?",
+    "answer": "We have a 2-for-1 deal on Doritos today!"
+  },
+  {
+    "question": "Do you accept coupons for Cheese Pizza?",
+    "answer": "Yes, we have a sugar-free version of Cheese Pizza available."
+  },
+  {
+    "question": "Is Ben & Jerry's gluten-free?",
+    "answer": "Unopened Ben & Jerry's can be returned with a receipt within 7 days."
+  },
+  {
+    "question": "Do you have sugar-free versions of Big Bite Hot Dog?",
+    "answer": "Store hours may vary; please check online to see when you can buy Big Bite Hot Dog."
+  },
+  {
+    "question": "Can I get Ricola Cough Drops heated up in-store?",
+    "answer": "Ricola Cough Drops comes in regular and large sizes."
+  },
+  {
+    "question": "Can I return Coca-Cola if I'm not satisfied?",
+    "answer": "The price of Coca-Cola varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "Does Red Bull contain nuts?",
+    "answer": "We ensure all Red Bull sold is within its expiration date."
+  },
+  {
+    "question": "Is there a limit on how many Wonder Bread I can buy?",
+    "answer": "Unopened Wonder Bread can be returned with a receipt within 7 days."
+  },
+  {
+    "question": "Do you sell Lay's Classic in bulk?",
+    "answer": "We have a 2-for-1 deal on Lay's Classic today!"
+  },
+  {
+    "question": "How much does a The New York Times cost?",
+    "answer": "The New York Times comes in regular and large sizes."
+  },
+  {
+    "question": "Do you offer a loyalty program for buying Lay's Classic?",
+    "answer": "Lay's Classic may contain traces of nuts. Always read the ingredient list before purchasing."
+  },
+  {
+    "question": "Is Ben & Jerry's available at 7-Eleven right now?",
+    "answer": "Ben & Jerry's comes in regular and large sizes."
+  },
+  {
+    "question": "Can I pay for M&M's with a gift card?",
+    "answer": "M&M's may contain traces of nuts. Always read the ingredient list before purchasing."
+  },
+  {
+    "question": "Do you offer a loyalty program for buying Yoplait Yogurt?",
+    "answer": "We are happy to heat up your Yoplait Yogurt for you in-store."
+  },
+  {
+    "question": "Does Snickers Bar contain nuts?",
+    "answer": "There is a purchase limit of 5 per customer for Snickers Bar."
+  },
+  {
+    "question": "Can I get Powerball Ticket heated up in-store?",
+    "answer": "We usually carry Powerball Ticket. Please check your local 7-Eleven for real-time inventory."
+  },
+  {
+    "question": "How fresh is your Advil?",
+    "answer": "You can order Advil online through our website or app for pickup."
+  },
+  {
+    "question": "Do you sell Snickers Bar in bulk?",
+    "answer": "Yes, we have a sugar-free version of Snickers Bar available."
+  },
+  {
+    "question": "How much does a Dozen Eggs cost?",
+    "answer": "We are happy to heat up your Dozen Eggs for you in-store."
+  },
+  {
+    "question": "Is Tylenol kept refrigerated?",
+    "answer": "We usually carry Tylenol. Please check your local 7-Eleven for real-time inventory."
+  },
+  {
+    "question": "Are there any allergens in Big Bite Hot Dog?",
+    "answer": "Our loyalty program gives you points when you buy Big Bite Hot Dog."
+  },
+  {
+    "question": "Can I pay for Cheese Pizza with a gift card?",
+    "answer": "Bulk packages of Cheese Pizza are available at select locations."
+  },
+  {
+    "question": "Is Wonder Bread part of your meal deals?",
+    "answer": "Gift cards can be used to purchase Wonder Bread."
+  },
+  {
+    "question": "Do you have sugar-free versions of Frosted Flakes?",
+    "answer": "There is a purchase limit of 5 per customer for Frosted Flakes."
+  },
+  {
+    "question": "Is Stouffer's Mac & Cheese suitable for vegetarians?",
+    "answer": "Stouffer's Mac & Cheese is delivered fresh daily to our stores."
+  },
+  {
+    "question": "Is Frosted Flakes available at 7-Eleven right now?",
+    "answer": "You get a discount when you buy 3 or more Frosted Flakes."
+  },
+  {
+    "question": "Can I pay for Monster Energy with a gift card?",
+    "answer": "Monster Energy comes in regular and large sizes."
+  },
+  {
+    "question": "Can I get nutritional info for Lay's Classic?",
+    "answer": "Store hours may vary; please check online to see when you can buy Lay's Classic."
+  },
+  {
+    "question": "Is there a limit on how many Lipton Iced Tea I can buy?",
+    "answer": "Our loyalty program gives you points when you buy Lipton Iced Tea."
+  },
+  {
+    "question": "Can I get Tylenol heated up in-store?",
+    "answer": "Our loyalty program gives you points when you buy Tylenol."
+  },
+  {
+    "question": "Are there any allergens in Coca-Cola?",
+    "answer": "Bulk packages of Coca-Cola are available at select locations."
+  },
+  {
+    "question": "Can I order Frosted Flakes online for pickup?",
+    "answer": "Frosted Flakes is included in our $5 meal deal today!"
+  },
+  {
+    "question": "What size options do you have for Dozen Eggs?",
+    "answer": "Dozen Eggs is vegetarian-friendly."
+  },
+  {
+    "question": "Is there a limit on how many Dozen Eggs I can buy?",
+    "answer": "Yes, Dozen Eggs is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "Is Yoplait Yogurt available at 7-Eleven right now?",
+    "answer": "The price of Yoplait Yogurt varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "Is there a limit on how many Monster Energy I can buy?",
+    "answer": "Monster Energy is included in our $5 meal deal today!"
+  },
+  {
+    "question": "Do you have sugar-free versions of Energizer AA Batteries?",
+    "answer": "There is a purchase limit of 5 per customer for Energizer AA Batteries."
+  },
+  {
+    "question": "Is Turkey Sandwich suitable for vegetarians?",
+    "answer": "Turkey Sandwich is gluten-free. Please check the packaging for specific details."
+  },
+  {
+    "question": "What is the expiration date policy for Lay's Classic?",
+    "answer": "We ensure all Lay's Classic sold is within its expiration date."
+  },
+  {
+    "question": "How much does a Coca-Cola cost?",
+    "answer": "You can order Coca-Cola online through our website or app for pickup."
+  },
+  {
+    "question": "Can I pay for Cheese Pizza with a gift card?",
+    "answer": "The price of Cheese Pizza varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "Can I get Extra Gum heated up in-store?",
+    "answer": "Our loyalty program gives you points when you buy Extra Gum."
+  },
+  {
+    "question": "Do you sell Advil in bulk?",
+    "answer": "Advil may contain traces of nuts. Always read the ingredient list before purchasing."
+  },
+  {
+    "question": "Do you have sugar-free versions of Stouffer's Mac & Cheese?",
+    "answer": "Yes, we have a sugar-free version of Stouffer's Mac & Cheese available."
+  },
+  {
+    "question": "Is there a limit on how many Heinz Ketchup I can buy?",
+    "answer": "Yes, we have a sugar-free version of Heinz Ketchup available."
+  },
+  {
+    "question": "Can I order The New York Times online for pickup?",
+    "answer": "Yes, The New York Times is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "Is there a discount for buying multiple The New York Times?",
+    "answer": "Yes, The New York Times is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "Do you sell Glazed Donut in bulk?",
+    "answer": "Our loyalty program gives you points when you buy Glazed Donut."
+  },
+  {
+    "question": "Is Heinz Ketchup suitable for vegetarians?",
+    "answer": "We have a 2-for-1 deal on Heinz Ketchup today!"
+  },
+  {
+    "question": "Can I pay for Red Bull with a gift card?",
+    "answer": "Store hours may vary; please check online to see when you can buy Red Bull."
+  },
+  {
+    "question": "Can I order Heinz Ketchup online for pickup?",
+    "answer": "Yes, Heinz Ketchup is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "Are there any allergens in Heinz Ketchup?",
+    "answer": "You get a discount when you buy 3 or more Heinz Ketchup."
+  },
+  {
+    "question": "Is there a limit on how many Maruchan Ramen I can buy?",
+    "answer": "We accept most manufacturer coupons for Maruchan Ramen."
+  },
+  {
+    "question": "Can I get Frosted Flakes heated up in-store?",
+    "answer": "Store hours may vary; please check online to see when you can buy Frosted Flakes."
+  },
+  {
+    "question": "Can I get Extra Gum heated up in-store?",
+    "answer": "Extra Gum is stored refrigerated for best freshness."
+  },
+  {
+    "question": "Is there a discount for buying multiple Monster Energy?",
+    "answer": "Monster Energy is gluten-free. Please check the packaging for specific details."
+  },
+  {
+    "question": "Can I pay for Big Bite Hot Dog with a gift card?",
+    "answer": "Yes, we have a sugar-free version of Big Bite Hot Dog available."
+  },
+  {
+    "question": "Are there any allergens in Advil?",
+    "answer": "Unopened Advil can be returned with a receipt within 7 days."
+  },
+  {
+    "question": "Do you offer a loyalty program for buying Heinz Ketchup?",
+    "answer": "The price of Heinz Ketchup varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "Can I pay for Coca-Cola with a gift card?",
+    "answer": "The price of Coca-Cola varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "What are your store hours to buy Red Bull?",
+    "answer": "There is a purchase limit of 5 per customer for Red Bull."
+  },
+  {
+    "question": "How fresh is your Powerball Ticket?",
+    "answer": "We have a 2-for-1 deal on Powerball Ticket today!"
+  },
+  {
+    "question": "Can I get Cinnamon Roll heated up in-store?",
+    "answer": "We usually carry Cinnamon Roll. Please check your local 7-Eleven for real-time inventory."
+  },
+  {
+    "question": "Do you have sugar-free versions of Coca-Cola?",
+    "answer": "Coca-Cola may contain traces of nuts. Always read the ingredient list before purchasing."
+  },
+  {
+    "question": "What size options do you have for Glazed Donut?",
+    "answer": "You get a discount when you buy 3 or more Glazed Donut."
+  },
+  {
+    "question": "Can I pay for Snickers Bar with a gift card?",
+    "answer": "Our loyalty program gives you points when you buy Snickers Bar."
+  },
+  {
+    "question": "What are your store hours to buy Red Bull?",
+    "answer": "Please check the label on Red Bull for detailed allergen information."
+  },
+  {
+    "question": "Can I get Turkey Sandwich heated up in-store?",
+    "answer": "Bulk packages of Turkey Sandwich are available at select locations."
+  },
+  {
+    "question": "What size options do you have for Monster Energy?",
+    "answer": "We are happy to heat up your Monster Energy for you in-store."
+  },
+  {
+    "question": "Is Yoplait Yogurt suitable for vegetarians?",
+    "answer": "Bulk packages of Yoplait Yogurt are available at select locations."
+  },
+  {
+    "question": "Do you have sugar-free versions of Energizer AA Batteries?",
+    "answer": "Energizer AA Batteries is vegetarian-friendly."
+  },
+  {
+    "question": "Can I return Cheese Pizza if I'm not satisfied?",
+    "answer": "Bulk packages of Cheese Pizza are available at select locations."
+  },
+  {
+    "question": "Do you have deals on Turkey Sandwich today?",
+    "answer": "There is a purchase limit of 5 per customer for Turkey Sandwich."
+  },
+  {
+    "question": "What is the expiration date policy for M&M's?",
+    "answer": "We usually carry M&M's. Please check your local 7-Eleven for real-time inventory."
+  },
+  {
+    "question": "Can I pay for Snickers Bar with a gift card?",
+    "answer": "Yes, we have a sugar-free version of Snickers Bar available."
+  },
+  {
+    "question": "Is Starbucks Coffee kept refrigerated?",
+    "answer": "You get a discount when you buy 3 or more Starbucks Coffee."
+  },
+  {
+    "question": "Is Doritos available at 7-Eleven right now?",
+    "answer": "We have a 2-for-1 deal on Doritos today!"
+  },
+  {
+    "question": "Is Monster Energy available at 7-Eleven right now?",
+    "answer": "Gift cards can be used to purchase Monster Energy."
+  },
+  {
+    "question": "Do you sell Dozen Eggs in bulk?",
+    "answer": "Yes, we have a sugar-free version of Dozen Eggs available."
+  },
+  {
+    "question": "How much does a Yoplait Yogurt cost?",
+    "answer": "Yoplait Yogurt is stored refrigerated for best freshness."
+  },
+  {
+    "question": "Can I return Heinz Ketchup if I'm not satisfied?",
+    "answer": "We are happy to heat up your Heinz Ketchup for you in-store."
+  },
+  {
+    "question": "Is Dozen Eggs kept refrigerated?",
+    "answer": "Dozen Eggs is delivered fresh daily to our stores."
+  },
+  {
+    "question": "What are your store hours to buy Frosted Flakes?",
+    "answer": "You get a discount when you buy 3 or more Frosted Flakes."
+  },
+  {
+    "question": "Do you accept coupons for Frosted Flakes?",
+    "answer": "Frosted Flakes is stored refrigerated for best freshness."
+  },
+  {
+    "question": "Can I pay for Turkey Sandwich with a gift card?",
+    "answer": "Yes, we have a sugar-free version of Turkey Sandwich available."
+  },
+  {
+    "question": "Do you sell Glazed Donut in bulk?",
+    "answer": "Yes, Glazed Donut is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "Is Dozen Eggs part of your meal deals?",
+    "answer": "Gift cards can be used to purchase Dozen Eggs."
+  },
+  {
+    "question": "Can I get Coca-Cola heated up in-store?",
+    "answer": "You get a discount when you buy 3 or more Coca-Cola."
+  },
+  {
+    "question": "Is there a discount for buying multiple Monster Energy?",
+    "answer": "We accept most manufacturer coupons for Monster Energy."
+  },
+  {
+    "question": "Does Dozen Eggs contain nuts?",
+    "answer": "Bulk packages of Dozen Eggs are available at select locations."
+  },
+  {
+    "question": "Do you have deals on Visa Gift Card today?",
+    "answer": "You get a discount when you buy 3 or more Visa Gift Card."
+  },
+  {
+    "question": "What size options do you have for Ricola Cough Drops?",
+    "answer": "Ricola Cough Drops is included in our $5 meal deal today!"
+  },
+  {
+    "question": "How much does a Ben & Jerry's cost?",
+    "answer": "We are happy to heat up your Ben & Jerry's for you in-store."
+  },
+  {
+    "question": "Do you offer a loyalty program for buying Pepsi?",
+    "answer": "You get a discount when you buy 3 or more Pepsi."
+  },
+  {
+    "question": "Can I order Red Bull online for pickup?",
+    "answer": "Yes, we have a sugar-free version of Red Bull available."
+  },
+  {
+    "question": "Do you offer a loyalty program for buying Advil?",
+    "answer": "Please check the label on Advil for detailed allergen information."
+  },
+  {
+    "question": "Do you have sugar-free versions of Yoplait Yogurt?",
+    "answer": "Yoplait Yogurt is vegetarian-friendly."
+  },
+  {
+    "question": "What is the expiration date policy for Snickers Bar?",
+    "answer": "Bulk packages of Snickers Bar are available at select locations."
+  },
+  {
+    "question": "Do you accept coupons for Powerball Ticket?",
+    "answer": "We usually carry Powerball Ticket. Please check your local 7-Eleven for real-time inventory."
+  },
+  {
+    "question": "Can I return The New York Times if I'm not satisfied?",
+    "answer": "The New York Times is vegetarian-friendly."
+  },
+  {
+    "question": "Is there a discount for buying multiple Heinz Ketchup?",
+    "answer": "We have a 2-for-1 deal on Heinz Ketchup today!"
+  },
+  {
+    "question": "Can I get nutritional info for Lipton Iced Tea?",
+    "answer": "Unopened Lipton Iced Tea can be returned with a receipt within 7 days."
+  },
+  {
+    "question": "How much does a Totino's Pizza Rolls cost?",
+    "answer": "The price of Totino's Pizza Rolls varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "Do you offer a loyalty program for buying 2% Milk?",
+    "answer": "2% Milk comes in regular and large sizes."
+  },
+  {
+    "question": "Is Wonder Bread suitable for vegetarians?",
+    "answer": "Wonder Bread is delivered fresh daily to our stores."
+  },
+  {
+    "question": "Do you offer a loyalty program for buying The New York Times?",
+    "answer": "Bulk packages of The New York Times are available at select locations."
+  },
+  {
+    "question": "Is Ricola Cough Drops suitable for vegetarians?",
+    "answer": "Ricola Cough Drops is gluten-free. Please check the packaging for specific details."
+  },
+  {
+    "question": "Is there a discount for buying multiple Snickers Bar?",
+    "answer": "Gift cards can be used to purchase Snickers Bar."
+  },
+  {
+    "question": "Do you have sugar-free versions of M&M's?",
+    "answer": "You can find full nutritional info for M&M's on the manufacturer's site or in-store."
+  },
+  {
+    "question": "What size options do you have for Dozen Eggs?",
+    "answer": "Please check the label on Dozen Eggs for detailed allergen information."
+  },
+  {
+    "question": "Do you sell The New York Times in bulk?",
+    "answer": "Yes, The New York Times is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "Are there any allergens in People Magazine?",
+    "answer": "People Magazine may contain traces of nuts. Always read the ingredient list before purchasing."
+  },
+  {
+    "question": "How much does a Lay's Classic cost?",
+    "answer": "You can find full nutritional info for Lay's Classic on the manufacturer's site or in-store."
+  },
+  {
+    "question": "Is Doritos available at 7-Eleven right now?",
+    "answer": "Doritos is vegetarian-friendly."
+  },
+  {
+    "question": "How fresh is your Totino's Pizza Rolls?",
+    "answer": "Gift cards can be used to purchase Totino's Pizza Rolls."
+  },
+  {
+    "question": "Do you accept coupons for Starbucks Coffee?",
+    "answer": "Starbucks Coffee is included in our $5 meal deal today!"
+  },
+  {
+    "question": "Do you have Extra Gum in stock?",
+    "answer": "Please check the label on Extra Gum for detailed allergen information."
+  },
+  {
+    "question": "Are there any allergens in Red Bull?",
+    "answer": "We are happy to heat up your Red Bull for you in-store."
+  },
+  {
+    "question": "What size options do you have for People Magazine?",
+    "answer": "People Magazine may contain traces of nuts. Always read the ingredient list before purchasing."
+  },
+  {
+    "question": "How fresh is your Red Bull?",
+    "answer": "We are happy to heat up your Red Bull for you in-store."
+  },
+  {
+    "question": "What is the expiration date policy for Ricola Cough Drops?",
+    "answer": "Yes, Ricola Cough Drops is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "Is Pepsi gluten-free?",
+    "answer": "We usually carry Pepsi. Please check your local 7-Eleven for real-time inventory."
+  },
+  {
+    "question": "Is Coca-Cola available at 7-Eleven right now?",
+    "answer": "We have a 2-for-1 deal on Coca-Cola today!"
+  },
+  {
+    "question": "Can I order The New York Times online for pickup?",
+    "answer": "The New York Times is stored refrigerated for best freshness."
+  },
+  {
+    "question": "Can I pay for Visa Gift Card with a gift card?",
+    "answer": "You can order Visa Gift Card online through our website or app for pickup."
+  },
+  {
+    "question": "Do you have deals on Lipton Iced Tea today?",
+    "answer": "Yes, Lipton Iced Tea is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "Is 2% Milk kept refrigerated?",
+    "answer": "You get a discount when you buy 3 or more 2% Milk."
+  },
+  {
+    "question": "Can I get nutritional info for Coca-Cola?",
+    "answer": "You can find full nutritional info for Coca-Cola on the manufacturer's site or in-store."
+  },
+  {
+    "question": "Does Wonder Bread contain nuts?",
+    "answer": "Wonder Bread is vegetarian-friendly."
+  },
+  {
+    "question": "How much does a Snickers Bar cost?",
+    "answer": "Gift cards can be used to purchase Snickers Bar."
+  },
+  {
+    "question": "Do you have deals on Energizer AA Batteries today?",
+    "answer": "Energizer AA Batteries is included in our $5 meal deal today!"
+  },
+  {
+    "question": "What are your store hours to buy Lipton Iced Tea?",
+    "answer": "Yes, Lipton Iced Tea is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "Is Yoplait Yogurt available at 7-Eleven right now?",
+    "answer": "Yoplait Yogurt is gluten-free. Please check the packaging for specific details."
+  },
+  {
+    "question": "Is Monster Energy part of your meal deals?",
+    "answer": "Our loyalty program gives you points when you buy Monster Energy."
+  },
+  {
+    "question": "How fresh is your Heinz Ketchup?",
+    "answer": "We are happy to heat up your Heinz Ketchup for you in-store."
+  },
+  {
+    "question": "Can I get nutritional info for Snickers Bar?",
+    "answer": "We have a 2-for-1 deal on Snickers Bar today!"
+  },
+  {
+    "question": "Is there a discount for buying multiple 2% Milk?",
+    "answer": "Yes, we have a sugar-free version of 2% Milk available."
+  },
+  {
+    "question": "Is Wonder Bread kept refrigerated?",
+    "answer": "We accept most manufacturer coupons for Wonder Bread."
+  },
+  {
+    "question": "Is Coca-Cola part of your meal deals?",
+    "answer": "The price of Coca-Cola varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "What is the expiration date policy for Tylenol?",
+    "answer": "We accept most manufacturer coupons for Tylenol."
+  },
+  {
+    "question": "Does Ben & Jerry's contain nuts?",
+    "answer": "We accept most manufacturer coupons for Ben & Jerry's."
+  },
+  {
+    "question": "Do you accept coupons for Doritos?",
+    "answer": "Store hours may vary; please check online to see when you can buy Doritos."
+  },
+  {
+    "question": "What is the expiration date policy for Ben & Jerry's?",
+    "answer": "Yes, Ben & Jerry's is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "Is Stouffer's Mac & Cheese part of your meal deals?",
+    "answer": "Store hours may vary; please check online to see when you can buy Stouffer's Mac & Cheese."
+  },
+  {
+    "question": "How much does a People Magazine cost?",
+    "answer": "You get a discount when you buy 3 or more People Magazine."
+  },
+  {
+    "question": "Is Turkey Sandwich kept refrigerated?",
+    "answer": "We are happy to heat up your Turkey Sandwich for you in-store."
+  },
+  {
+    "question": "Do you have Doritos in stock?",
+    "answer": "Yes, we have a sugar-free version of Doritos available."
+  },
+  {
+    "question": "What size options do you have for Energizer AA Batteries?",
+    "answer": "Our loyalty program gives you points when you buy Energizer AA Batteries."
+  },
+  {
+    "question": "Do you have Visa Gift Card in stock?",
+    "answer": "Visa Gift Card is stored refrigerated for best freshness."
+  },
+  {
+    "question": "What are your store hours to buy Totino's Pizza Rolls?",
+    "answer": "Our loyalty program gives you points when you buy Totino's Pizza Rolls."
+  },
+  {
+    "question": "Is there a discount for buying multiple Cinnamon Roll?",
+    "answer": "Unopened Cinnamon Roll can be returned with a receipt within 7 days."
+  },
+  {
+    "question": "Is Cinnamon Roll available at 7-Eleven right now?",
+    "answer": "Gift cards can be used to purchase Cinnamon Roll."
+  },
+  {
+    "question": "Can I return Turkey Sandwich if I'm not satisfied?",
+    "answer": "The price of Turkey Sandwich varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "Do you accept coupons for M&M's?",
+    "answer": "You can find full nutritional info for M&M's on the manufacturer's site or in-store."
+  },
+  {
+    "question": "What size options do you have for Ricola Cough Drops?",
+    "answer": "Ricola Cough Drops is stored refrigerated for best freshness."
+  },
+  {
+    "question": "Can I get People Magazine heated up in-store?",
+    "answer": "We accept most manufacturer coupons for People Magazine."
+  },
+  {
+    "question": "How much does a 2% Milk cost?",
+    "answer": "We ensure all 2% Milk sold is within its expiration date."
+  },
+  {
+    "question": "Can I pay for M&M's with a gift card?",
+    "answer": "Please check the label on M&M's for detailed allergen information."
+  },
+  {
+    "question": "Do you have sugar-free versions of Yoplait Yogurt?",
+    "answer": "Unopened Yoplait Yogurt can be returned with a receipt within 7 days."
+  },
+  {
+    "question": "How much does a Powerball Ticket cost?",
+    "answer": "The price of Powerball Ticket varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "How much does a Pepsi cost?",
+    "answer": "Store hours may vary; please check online to see when you can buy Pepsi."
+  },
+  {
+    "question": "Can I get Lipton Iced Tea heated up in-store?",
+    "answer": "Lipton Iced Tea is delivered fresh daily to our stores."
+  },
+  {
+    "question": "Can I get nutritional info for Wonder Bread?",
+    "answer": "We have a 2-for-1 deal on Wonder Bread today!"
+  },
+  {
+    "question": "Do you have sugar-free versions of Powerball Ticket?",
+    "answer": "Powerball Ticket is vegetarian-friendly."
+  },
+  {
+    "question": "Do you sell Monster Energy in bulk?",
+    "answer": "You can find full nutritional info for Monster Energy on the manufacturer's site or in-store."
+  },
+  {
+    "question": "Do you have sugar-free versions of Lipton Iced Tea?",
+    "answer": "Lipton Iced Tea may contain traces of nuts. Always read the ingredient list before purchasing."
+  },
+  {
+    "question": "Is Powerball Ticket kept refrigerated?",
+    "answer": "Powerball Ticket is gluten-free. Please check the packaging for specific details."
+  },
+  {
+    "question": "Do you sell Dozen Eggs in bulk?",
+    "answer": "Dozen Eggs is gluten-free. Please check the packaging for specific details."
+  },
+  {
+    "question": "How much does a Heinz Ketchup cost?",
+    "answer": "Unopened Heinz Ketchup can be returned with a receipt within 7 days."
+  },
+  {
+    "question": "Do you accept coupons for Red Bull?",
+    "answer": "We have a 2-for-1 deal on Red Bull today!"
+  },
+  {
+    "question": "How much does a Extra Gum cost?",
+    "answer": "Extra Gum is delivered fresh daily to our stores."
+  },
+  {
+    "question": "Is there a discount for buying multiple 2% Milk?",
+    "answer": "Yes, 2% Milk is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "Are there any allergens in Snickers Bar?",
+    "answer": "The price of Snickers Bar varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "Does People Magazine contain nuts?",
+    "answer": "People Magazine is included in our $5 meal deal today!"
+  },
+  {
+    "question": "Do you accept coupons for Yoplait Yogurt?",
+    "answer": "You get a discount when you buy 3 or more Yoplait Yogurt."
+  },
+  {
+    "question": "Do you have sugar-free versions of Tylenol?",
+    "answer": "We usually carry Tylenol. Please check your local 7-Eleven for real-time inventory."
+  },
+  {
+    "question": "Do you accept coupons for Powerball Ticket?",
+    "answer": "The price of Powerball Ticket varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "Is M&M's kept refrigerated?",
+    "answer": "You can order M&M's online through our website or app for pickup."
+  },
+  {
+    "question": "Is Frosted Flakes kept refrigerated?",
+    "answer": "Frosted Flakes is gluten-free. Please check the packaging for specific details."
+  },
+  {
+    "question": "What size options do you have for Glazed Donut?",
+    "answer": "We accept most manufacturer coupons for Glazed Donut."
+  },
+  {
+    "question": "Do you have deals on Powerball Ticket today?",
+    "answer": "Gift cards can be used to purchase Powerball Ticket."
+  },
+  {
+    "question": "Can I order Starbucks Coffee online for pickup?",
+    "answer": "Unopened Starbucks Coffee can be returned with a receipt within 7 days."
+  },
+  {
+    "question": "Do you have deals on The New York Times today?",
+    "answer": "The New York Times is delivered fresh daily to our stores."
+  },
+  {
+    "question": "What is the expiration date policy for Coca-Cola?",
+    "answer": "Bulk packages of Coca-Cola are available at select locations."
+  },
+  {
+    "question": "Can I return Big Bite Hot Dog if I'm not satisfied?",
+    "answer": "The price of Big Bite Hot Dog varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "What is the expiration date policy for Stouffer's Mac & Cheese?",
+    "answer": "The price of Stouffer's Mac & Cheese varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "Is Extra Gum kept refrigerated?",
+    "answer": "Store hours may vary; please check online to see when you can buy Extra Gum."
+  },
+  {
+    "question": "Do you have Cheese Pizza in stock?",
+    "answer": "Cheese Pizza comes in regular and large sizes."
+  },
+  {
+    "question": "Do you have deals on Cheese Pizza today?",
+    "answer": "Bulk packages of Cheese Pizza are available at select locations."
+  },
+  {
+    "question": "How fresh is your Lay's Classic?",
+    "answer": "Lay's Classic is gluten-free. Please check the packaging for specific details."
+  },
+  {
+    "question": "How fresh is your Totino's Pizza Rolls?",
+    "answer": "Totino's Pizza Rolls may contain traces of nuts. Always read the ingredient list before purchasing."
+  },
+  {
+    "question": "Do you have deals on M&M's today?",
+    "answer": "You get a discount when you buy 3 or more M&M's."
+  },
+  {
+    "question": "Is there a limit on how many Stouffer's Mac & Cheese I can buy?",
+    "answer": "Stouffer's Mac & Cheese is vegetarian-friendly."
+  },
+  {
+    "question": "Is Red Bull part of your meal deals?",
+    "answer": "We accept most manufacturer coupons for Red Bull."
+  },
+  {
+    "question": "Do you have sugar-free versions of 2% Milk?",
+    "answer": "2% Milk is vegetarian-friendly."
+  },
+  {
+    "question": "What are your store hours to buy Ben & Jerry's?",
+    "answer": "Please check the label on Ben & Jerry's for detailed allergen information."
+  },
+  {
+    "question": "Is Glazed Donut gluten-free?",
+    "answer": "You get a discount when you buy 3 or more Glazed Donut."
+  },
+  {
+    "question": "Do you offer a loyalty program for buying Lay's Classic?",
+    "answer": "You get a discount when you buy 3 or more Lay's Classic."
+  },
+  {
+    "question": "Can I get Doritos heated up in-store?",
+    "answer": "Doritos comes in regular and large sizes."
+  },
+  {
+    "question": "Do you have sugar-free versions of Advil?",
+    "answer": "Advil is delivered fresh daily to our stores."
+  },
+  {
+    "question": "Does Doritos contain nuts?",
+    "answer": "Doritos is gluten-free. Please check the packaging for specific details."
+  },
+  {
+    "question": "What is the expiration date policy for Energizer AA Batteries?",
+    "answer": "Yes, Energizer AA Batteries is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "Is Visa Gift Card kept refrigerated?",
+    "answer": "Visa Gift Card may contain traces of nuts. Always read the ingredient list before purchasing."
+  },
+  {
+    "question": "Do you have Maruchan Ramen in stock?",
+    "answer": "Gift cards can be used to purchase Maruchan Ramen."
+  },
+  {
+    "question": "Can I order Energizer AA Batteries online for pickup?",
+    "answer": "You can find full nutritional info for Energizer AA Batteries on the manufacturer's site or in-store."
+  },
+  {
+    "question": "Do you have sugar-free versions of Monster Energy?",
+    "answer": "Monster Energy is vegetarian-friendly."
+  },
+  {
+    "question": "Do you offer a loyalty program for buying Ben & Jerry's?",
+    "answer": "Bulk packages of Ben & Jerry's are available at select locations."
+  },
+  {
+    "question": "Can I get nutritional info for 2% Milk?",
+    "answer": "We usually carry 2% Milk. Please check your local 7-Eleven for real-time inventory."
+  },
+  {
+    "question": "Do you have Turkey Sandwich in stock?",
+    "answer": "Yes, Turkey Sandwich is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "What are your store hours to buy Ben & Jerry's?",
+    "answer": "You get a discount when you buy 3 or more Ben & Jerry's."
+  },
+  {
+    "question": "How much does a Dozen Eggs cost?",
+    "answer": "We usually carry Dozen Eggs. Please check your local 7-Eleven for real-time inventory."
+  },
+  {
+    "question": "Can I get People Magazine heated up in-store?",
+    "answer": "People Magazine is delivered fresh daily to our stores."
+  },
+  {
+    "question": "Is Lipton Iced Tea suitable for vegetarians?",
+    "answer": "We ensure all Lipton Iced Tea sold is within its expiration date."
+  },
+  {
+    "question": "Is Totino's Pizza Rolls available at 7-Eleven right now?",
+    "answer": "The price of Totino's Pizza Rolls varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "How fresh is your Snickers Bar?",
+    "answer": "Gift cards can be used to purchase Snickers Bar."
+  },
+  {
+    "question": "Is Monster Energy suitable for vegetarians?",
+    "answer": "We accept most manufacturer coupons for Monster Energy."
+  },
+  {
+    "question": "How fresh is your Totino's Pizza Rolls?",
+    "answer": "Totino's Pizza Rolls may contain traces of nuts. Always read the ingredient list before purchasing."
+  },
+  {
+    "question": "What size options do you have for Big Bite Hot Dog?",
+    "answer": "Unopened Big Bite Hot Dog can be returned with a receipt within 7 days."
+  },
+  {
+    "question": "Can I return Glazed Donut if I'm not satisfied?",
+    "answer": "Gift cards can be used to purchase Glazed Donut."
+  },
+  {
+    "question": "Does Coca-Cola contain nuts?",
+    "answer": "We have a 2-for-1 deal on Coca-Cola today!"
+  },
+  {
+    "question": "Does Powerball Ticket contain nuts?",
+    "answer": "We are happy to heat up your Powerball Ticket for you in-store."
+  },
+  {
+    "question": "Do you sell Wonder Bread in bulk?",
+    "answer": "You get a discount when you buy 3 or more Wonder Bread."
+  },
+  {
+    "question": "What is the expiration date policy for Pepsi?",
+    "answer": "Pepsi is gluten-free. Please check the packaging for specific details."
+  },
+  {
+    "question": "Do you sell M&M's in bulk?",
+    "answer": "M&M's is delivered fresh daily to our stores."
+  },
+  {
+    "question": "Do you have deals on Frosted Flakes today?",
+    "answer": "You get a discount when you buy 3 or more Frosted Flakes."
+  },
+  {
+    "question": "Can I get nutritional info for Pepsi?",
+    "answer": "We are happy to heat up your Pepsi for you in-store."
+  },
+  {
+    "question": "Is Wonder Bread part of your meal deals?",
+    "answer": "Wonder Bread is gluten-free. Please check the packaging for specific details."
+  },
+  {
+    "question": "Is there a discount for buying multiple Extra Gum?",
+    "answer": "Extra Gum may contain traces of nuts. Always read the ingredient list before purchasing."
+  },
+  {
+    "question": "Do you sell Monster Energy in bulk?",
+    "answer": "Monster Energy is included in our $5 meal deal today!"
+  },
+  {
+    "question": "Do you accept coupons for Wonder Bread?",
+    "answer": "Store hours may vary; please check online to see when you can buy Wonder Bread."
+  },
+  {
+    "question": "Can I get Advil heated up in-store?",
+    "answer": "We ensure all Advil sold is within its expiration date."
+  },
+  {
+    "question": "What are your store hours to buy Turkey Sandwich?",
+    "answer": "We usually carry Turkey Sandwich. Please check your local 7-Eleven for real-time inventory."
+  },
+  {
+    "question": "What are your store hours to buy People Magazine?",
+    "answer": "Our loyalty program gives you points when you buy People Magazine."
+  },
+  {
+    "question": "Are there any allergens in Maruchan Ramen?",
+    "answer": "Gift cards can be used to purchase Maruchan Ramen."
+  },
+  {
+    "question": "Do you sell Big Bite Hot Dog in bulk?",
+    "answer": "You get a discount when you buy 3 or more Big Bite Hot Dog."
+  },
+  {
+    "question": "What size options do you have for Cheese Pizza?",
+    "answer": "You can order Cheese Pizza online through our website or app for pickup."
+  },
+  {
+    "question": "Do you accept coupons for Big Bite Hot Dog?",
+    "answer": "We accept most manufacturer coupons for Big Bite Hot Dog."
+  },
+  {
+    "question": "Do you accept coupons for Big Bite Hot Dog?",
+    "answer": "Unopened Big Bite Hot Dog can be returned with a receipt within 7 days."
+  },
+  {
+    "question": "Do you offer a loyalty program for buying Stouffer's Mac & Cheese?",
+    "answer": "Stouffer's Mac & Cheese may contain traces of nuts. Always read the ingredient list before purchasing."
+  },
+  {
+    "question": "Can I get Starbucks Coffee heated up in-store?",
+    "answer": "We usually carry Starbucks Coffee. Please check your local 7-Eleven for real-time inventory."
+  },
+  {
+    "question": "Do you sell Maruchan Ramen in bulk?",
+    "answer": "Maruchan Ramen is vegetarian-friendly."
+  },
+  {
+    "question": "Are there any allergens in People Magazine?",
+    "answer": "Yes, People Magazine is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "Is Lay's Classic kept refrigerated?",
+    "answer": "We accept most manufacturer coupons for Lay's Classic."
+  },
+  {
+    "question": "Is Cheese Pizza suitable for vegetarians?",
+    "answer": "Yes, Cheese Pizza is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "Can I return Extra Gum if I'm not satisfied?",
+    "answer": "You can find full nutritional info for Extra Gum on the manufacturer's site or in-store."
+  },
+  {
+    "question": "Is Red Bull part of your meal deals?",
+    "answer": "Unopened Red Bull can be returned with a receipt within 7 days."
+  },
+  {
+    "question": "Do you sell Heinz Ketchup in bulk?",
+    "answer": "Yes, Heinz Ketchup is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "What is the expiration date policy for Frosted Flakes?",
+    "answer": "Please check the label on Frosted Flakes for detailed allergen information."
+  },
+  {
+    "question": "How much does a Doritos cost?",
+    "answer": "The price of Doritos varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "Do you have Red Bull in stock?",
+    "answer": "We usually carry Red Bull. Please check your local 7-Eleven for real-time inventory."
+  },
+  {
+    "question": "Can I return Energizer AA Batteries if I'm not satisfied?",
+    "answer": "Energizer AA Batteries may contain traces of nuts. Always read the ingredient list before purchasing."
+  },
+  {
+    "question": "What are your store hours to buy Advil?",
+    "answer": "We ensure all Advil sold is within its expiration date."
+  },
+  {
+    "question": "Can I get Snickers Bar heated up in-store?",
+    "answer": "Store hours may vary; please check online to see when you can buy Snickers Bar."
+  },
+  {
+    "question": "Can I order Glazed Donut online for pickup?",
+    "answer": "Glazed Donut is included in our $5 meal deal today!"
+  },
+  {
+    "question": "Is there a limit on how many Maruchan Ramen I can buy?",
+    "answer": "Please check the label on Maruchan Ramen for detailed allergen information."
+  },
+  {
+    "question": "Is Visa Gift Card suitable for vegetarians?",
+    "answer": "Visa Gift Card comes in regular and large sizes."
+  },
+  {
+    "question": "Are there any allergens in Ricola Cough Drops?",
+    "answer": "The price of Ricola Cough Drops varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "Can I get Energizer AA Batteries heated up in-store?",
+    "answer": "Please check the label on Energizer AA Batteries for detailed allergen information."
+  },
+  {
+    "question": "Can I get Snickers Bar heated up in-store?",
+    "answer": "Our loyalty program gives you points when you buy Snickers Bar."
+  },
+  {
+    "question": "Can I pay for Coca-Cola with a gift card?",
+    "answer": "The price of Coca-Cola varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "How much does a Pepsi cost?",
+    "answer": "Bulk packages of Pepsi are available at select locations."
+  },
+  {
+    "question": "How much does a Pepsi cost?",
+    "answer": "Pepsi is stored refrigerated for best freshness."
+  },
+  {
+    "question": "Do you have Lipton Iced Tea in stock?",
+    "answer": "Lipton Iced Tea comes in regular and large sizes."
+  },
+  {
+    "question": "Do you have sugar-free versions of Maruchan Ramen?",
+    "answer": "Please check the label on Maruchan Ramen for detailed allergen information."
+  },
+  {
+    "question": "Is The New York Times part of your meal deals?",
+    "answer": "We are happy to heat up your The New York Times for you in-store."
+  },
+  {
+    "question": "Is there a limit on how many Lipton Iced Tea I can buy?",
+    "answer": "The price of Lipton Iced Tea varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "Do you have Doritos in stock?",
+    "answer": "Yes, Doritos is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "Can I order The New York Times online for pickup?",
+    "answer": "Bulk packages of The New York Times are available at select locations."
+  },
+  {
+    "question": "Is Powerball Ticket gluten-free?",
+    "answer": "Yes, Powerball Ticket is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "Is Red Bull kept refrigerated?",
+    "answer": "The price of Red Bull varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "Are there any allergens in Frosted Flakes?",
+    "answer": "You can order Frosted Flakes online through our website or app for pickup."
+  },
+  {
+    "question": "What is the expiration date policy for Cinnamon Roll?",
+    "answer": "Our loyalty program gives you points when you buy Cinnamon Roll."
+  },
+  {
+    "question": "Do you sell Visa Gift Card in bulk?",
+    "answer": "Yes, we have a sugar-free version of Visa Gift Card available."
+  },
+  {
+    "question": "Can I return People Magazine if I'm not satisfied?",
+    "answer": "People Magazine is included in our $5 meal deal today!"
+  },
+  {
+    "question": "Does Monster Energy contain nuts?",
+    "answer": "Monster Energy is included in our $5 meal deal today!"
+  },
+  {
+    "question": "Is Doritos suitable for vegetarians?",
+    "answer": "Doritos is gluten-free. Please check the packaging for specific details."
+  },
+  {
+    "question": "Is People Magazine suitable for vegetarians?",
+    "answer": "We accept most manufacturer coupons for People Magazine."
+  },
+  {
+    "question": "Is Yoplait Yogurt suitable for vegetarians?",
+    "answer": "You can find full nutritional info for Yoplait Yogurt on the manufacturer's site or in-store."
+  },
+  {
+    "question": "Do you have deals on Snickers Bar today?",
+    "answer": "Snickers Bar is vegetarian-friendly."
+  },
+  {
+    "question": "Is there a limit on how many Lipton Iced Tea I can buy?",
+    "answer": "There is a purchase limit of 5 per customer for Lipton Iced Tea."
+  },
+  {
+    "question": "Is Wonder Bread gluten-free?",
+    "answer": "Unopened Wonder Bread can be returned with a receipt within 7 days."
+  },
+  {
+    "question": "How much does a Maruchan Ramen cost?",
+    "answer": "We ensure all Maruchan Ramen sold is within its expiration date."
+  },
+  {
+    "question": "Do you have sugar-free versions of 2% Milk?",
+    "answer": "2% Milk is included in our $5 meal deal today!"
+  },
+  {
+    "question": "Can I get Big Bite Hot Dog heated up in-store?",
+    "answer": "Big Bite Hot Dog comes in regular and large sizes."
+  },
+  {
+    "question": "How much does a Dozen Eggs cost?",
+    "answer": "Yes, we have a sugar-free version of Dozen Eggs available."
+  },
+  {
+    "question": "Does M&M's contain nuts?",
+    "answer": "The price of M&M's varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "What are your store hours to buy Pepsi?",
+    "answer": "We ensure all Pepsi sold is within its expiration date."
+  },
+  {
+    "question": "Can I get Coca-Cola heated up in-store?",
+    "answer": "Unopened Coca-Cola can be returned with a receipt within 7 days."
+  },
+  {
+    "question": "How fresh is your Coca-Cola?",
+    "answer": "Coca-Cola is gluten-free. Please check the packaging for specific details."
+  },
+  {
+    "question": "How much does a The New York Times cost?",
+    "answer": "Please check the label on The New York Times for detailed allergen information."
+  },
+  {
+    "question": "Can I return Red Bull if I'm not satisfied?",
+    "answer": "Red Bull is delivered fresh daily to our stores."
+  },
+  {
+    "question": "Does M&M's contain nuts?",
+    "answer": "Yes, M&M's is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "Do you offer a loyalty program for buying Snickers Bar?",
+    "answer": "The price of Snickers Bar varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "Can I return Ben & Jerry's if I'm not satisfied?",
+    "answer": "We ensure all Ben & Jerry's sold is within its expiration date."
+  },
+  {
+    "question": "What are your store hours to buy 2% Milk?",
+    "answer": "2% Milk comes in regular and large sizes."
+  },
+  {
+    "question": "Is Heinz Ketchup gluten-free?",
+    "answer": "Our loyalty program gives you points when you buy Heinz Ketchup."
+  },
+  {
+    "question": "Do you sell Advil in bulk?",
+    "answer": "Please check the label on Advil for detailed allergen information."
+  },
+  {
+    "question": "Is Tylenol available at 7-Eleven right now?",
+    "answer": "Our loyalty program gives you points when you buy Tylenol."
+  },
+  {
+    "question": "How much does a 2% Milk cost?",
+    "answer": "Please check the label on 2% Milk for detailed allergen information."
+  },
+  {
+    "question": "Is Coca-Cola kept refrigerated?",
+    "answer": "Yes, Coca-Cola is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "What is the expiration date policy for Coca-Cola?",
+    "answer": "We usually carry Coca-Cola. Please check your local 7-Eleven for real-time inventory."
+  },
+  {
+    "question": "Do you have deals on Yoplait Yogurt today?",
+    "answer": "Yoplait Yogurt is stored refrigerated for best freshness."
+  },
+  {
+    "question": "Can I return Advil if I'm not satisfied?",
+    "answer": "Please check the label on Advil for detailed allergen information."
+  },
+  {
+    "question": "Do you offer a loyalty program for buying Powerball Ticket?",
+    "answer": "Powerball Ticket is stored refrigerated for best freshness."
+  },
+  {
+    "question": "Is there a discount for buying multiple Snickers Bar?",
+    "answer": "Yes, Snickers Bar is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "Are there any allergens in Starbucks Coffee?",
+    "answer": "Starbucks Coffee comes in regular and large sizes."
+  },
+  {
+    "question": "Do you sell Monster Energy in bulk?",
+    "answer": "Gift cards can be used to purchase Monster Energy."
+  },
+  {
+    "question": "Does Monster Energy contain nuts?",
+    "answer": "Monster Energy is included in our $5 meal deal today!"
+  },
+  {
+    "question": "Do you offer a loyalty program for buying Maruchan Ramen?",
+    "answer": "We ensure all Maruchan Ramen sold is within its expiration date."
+  },
+  {
+    "question": "Do you accept coupons for Tylenol?",
+    "answer": "Tylenol is included in our $5 meal deal today!"
+  },
+  {
+    "question": "What are your store hours to buy Cinnamon Roll?",
+    "answer": "Cinnamon Roll is stored refrigerated for best freshness."
+  },
+  {
+    "question": "Do you offer a loyalty program for buying Energizer AA Batteries?",
+    "answer": "The price of Energizer AA Batteries varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "Does Lipton Iced Tea contain nuts?",
+    "answer": "We are happy to heat up your Lipton Iced Tea for you in-store."
+  },
+  {
+    "question": "Is there a discount for buying multiple Frosted Flakes?",
+    "answer": "Frosted Flakes comes in regular and large sizes."
+  },
+  {
+    "question": "What is the expiration date policy for Lipton Iced Tea?",
+    "answer": "Lipton Iced Tea is included in our $5 meal deal today!"
+  },
+  {
+    "question": "Can I get nutritional info for Starbucks Coffee?",
+    "answer": "Yes, Starbucks Coffee is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "Do you have Ricola Cough Drops in stock?",
+    "answer": "There is a purchase limit of 5 per customer for Ricola Cough Drops."
+  },
+  {
+    "question": "Is Stouffer's Mac & Cheese gluten-free?",
+    "answer": "Bulk packages of Stouffer's Mac & Cheese are available at select locations."
+  },
+  {
+    "question": "Does Turkey Sandwich contain nuts?",
+    "answer": "Turkey Sandwich may contain traces of nuts. Always read the ingredient list before purchasing."
+  },
+  {
+    "question": "Is there a limit on how many Frosted Flakes I can buy?",
+    "answer": "You get a discount when you buy 3 or more Frosted Flakes."
+  },
+  {
+    "question": "Are there any allergens in Yoplait Yogurt?",
+    "answer": "You get a discount when you buy 3 or more Yoplait Yogurt."
+  },
+  {
+    "question": "Can I order Glazed Donut online for pickup?",
+    "answer": "Store hours may vary; please check online to see when you can buy Glazed Donut."
+  },
+  {
+    "question": "Is there a discount for buying multiple Dozen Eggs?",
+    "answer": "Please check the label on Dozen Eggs for detailed allergen information."
+  },
+  {
+    "question": "Is Pepsi gluten-free?",
+    "answer": "Pepsi is gluten-free. Please check the packaging for specific details."
+  },
+  {
+    "question": "Can I return Doritos if I'm not satisfied?",
+    "answer": "The price of Doritos varies by location, but it typically ranges around $2.50."
+  },
+  {
+    "question": "Do you accept coupons for Lipton Iced Tea?",
+    "answer": "Gift cards can be used to purchase Lipton Iced Tea."
+  },
+  {
+    "question": "Is there a discount for buying multiple Cheese Pizza?",
+    "answer": "Cheese Pizza is stored refrigerated for best freshness."
+  },
+  {
+    "question": "Is there a discount for buying multiple Yoplait Yogurt?",
+    "answer": "Yoplait Yogurt may contain traces of nuts. Always read the ingredient list before purchasing."
+  },
+  {
+    "question": "Can I get nutritional info for Advil?",
+    "answer": "Please check the label on Advil for detailed allergen information."
+  },
+  {
+    "question": "How much does a Advil cost?",
+    "answer": "We have a 2-for-1 deal on Advil today!"
+  },
+  {
+    "question": "Does Snickers Bar contain nuts?",
+    "answer": "Snickers Bar may contain traces of nuts. Always read the ingredient list before purchasing."
+  },
+  {
+    "question": "Are there any allergens in Visa Gift Card?",
+    "answer": "Bulk packages of Visa Gift Card are available at select locations."
+  },
+  {
+    "question": "How much does a Big Bite Hot Dog cost?",
+    "answer": "Big Bite Hot Dog is gluten-free. Please check the packaging for specific details."
+  },
+  {
+    "question": "Is Visa Gift Card kept refrigerated?",
+    "answer": "We are happy to heat up your Visa Gift Card for you in-store."
+  },
+  {
+    "question": "Can I return M&M's if I'm not satisfied?",
+    "answer": "You can order M&M's online through our website or app for pickup."
+  },
+  {
+    "question": "Is there a discount for buying multiple Ricola Cough Drops?",
+    "answer": "We accept most manufacturer coupons for Ricola Cough Drops."
+  },
+  {
+    "question": "Is Dozen Eggs kept refrigerated?",
+    "answer": "Yes, we have a sugar-free version of Dozen Eggs available."
+  },
+  {
+    "question": "Is 2% Milk part of your meal deals?",
+    "answer": "Gift cards can be used to purchase 2% Milk."
+  },
+  {
+    "question": "Does Powerball Ticket contain nuts?",
+    "answer": "Powerball Ticket comes in regular and large sizes."
+  },
+  {
+    "question": "Can I get Coca-Cola heated up in-store?",
+    "answer": "Yes, we have a sugar-free version of Coca-Cola available."
+  },
+  {
+    "question": "What is the expiration date policy for Dozen Eggs?",
+    "answer": "We have a 2-for-1 deal on Dozen Eggs today!"
+  },
+  {
+    "question": "Can I pay for Advil with a gift card?",
+    "answer": "We are happy to heat up your Advil for you in-store."
+  },
+  {
+    "question": "What size options do you have for Dozen Eggs?",
+    "answer": "Yes, Dozen Eggs is in stock at most 7-Eleven stores, but availability can change quickly."
+  },
+  {
+    "question": "Can I get Monster Energy heated up in-store?",
+    "answer": "Unopened Monster Energy can be returned with a receipt within 7 days."
+  },
+  {
+    "question": "Is Cheese Pizza part of your meal deals?",
+    "answer": "We usually carry Cheese Pizza. Please check your local 7-Eleven for real-time inventory."
+  },
+  {
+    "question": "Is Ricola Cough Drops gluten-free?",
+    "answer": "There is a purchase limit of 5 per customer for Ricola Cough Drops."
+  },
+  {
+    "question": "What are your store hours to buy Big Bite Hot Dog?",
+    "answer": "Big Bite Hot Dog is vegetarian-friendly."
+  },
+  {
+    "question": "Can I return Maruchan Ramen if I'm not satisfied?",
+    "answer": "Our loyalty program gives you points when you buy Maruchan Ramen."
+  },
+  {
+    "question": "Do you offer a loyalty program for buying M&M's?",
+    "answer": "Please check the label on M&M's for detailed allergen information."
+  },
+  {
+    "question": "How much does a Turkey Sandwich cost?",
+    "answer": "We are happy to heat up your Turkey Sandwich for you in-store."
+  },
+  {
+    "question": "How much does a Pepsi cost?",
+    "answer": "Store hours may vary; please check online to see when you can buy Pepsi."
+  },
+  {
+    "question": "Can I get nutritional info for Tylenol?",
+    "answer": "You get a discount when you buy 3 or more Tylenol."
+  },
+  {
+    "question": "Does Lipton Iced Tea contain nuts?",
+    "answer": "Unopened Lipton Iced Tea can be returned with a receipt within 7 days."
+  },
+  {
+    "question": "Is Lipton Iced Tea part of your meal deals?",
+    "answer": "Please check the label on Lipton Iced Tea for detailed allergen information."
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours.",
+    "category": "General"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations.",
+    "category": "Store Hours"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions.",
+    "category": "Store Policies"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers.",
+    "category": "Products"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website.",
+    "category": "Food"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout.",
+    "category": "Beverages"
+  },
+  {
+    "question": "Does 7-Eleven sell gas?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services.",
+    "category": "Slurpee"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery.",
+    "category": "Mobile App"
+  },
+  {
+    "question": "How do I return a product?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt.",
+    "category": "Loyalty Program"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores.",
+    "category": "Payment"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 11)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #11]",
+    "category": "Gift Cards"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 12)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #12]",
+    "category": "Franchising"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 13)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #13]",
+    "category": "Employment"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 14)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #14]",
+    "category": "Returns & Refunds"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 15)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #15]",
+    "category": "Delivery"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 16)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #16]",
+    "category": "Fuel"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 17)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #17]",
+    "category": "COVID-19"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 18)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #18]",
+    "category": "Promotions"
+  },
+  {
+    "question": "How do I return a product (variation 19)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #19]",
+    "category": "Age Restrictions"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 20)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #20]",
+    "category": "Customer Support"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 21)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #21]",
+    "category": "General"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 22)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #22]",
+    "category": "Store Hours"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 23)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #23]",
+    "category": "Store Policies"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 24)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #24]",
+    "category": "Products"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 25)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #25]",
+    "category": "Food"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 26)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #26]",
+    "category": "Beverages"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 27)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #27]",
+    "category": "Slurpee"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 28)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #28]",
+    "category": "Mobile App"
+  },
+  {
+    "question": "How do I return a product (variation 29)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #29]",
+    "category": "Loyalty Program"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 30)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #30]",
+    "category": "Payment"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 31)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #31]",
+    "category": "Gift Cards"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 32)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #32]",
+    "category": "Franchising"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 33)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #33]",
+    "category": "Employment"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 34)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #34]",
+    "category": "Returns & Refunds"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 35)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #35]",
+    "category": "Delivery"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 36)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #36]",
+    "category": "Fuel"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 37)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #37]",
+    "category": "COVID-19"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 38)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #38]",
+    "category": "Promotions"
+  },
+  {
+    "question": "How do I return a product (variation 39)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #39]",
+    "category": "Age Restrictions"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 40)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #40]",
+    "category": "Customer Support"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 41)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #41]",
+    "category": "General"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 42)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #42]",
+    "category": "Store Hours"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 43)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #43]",
+    "category": "Store Policies"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 44)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #44]",
+    "category": "Products"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 45)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #45]",
+    "category": "Food"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 46)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #46]",
+    "category": "Beverages"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 47)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #47]",
+    "category": "Slurpee"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 48)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #48]",
+    "category": "Mobile App"
+  },
+  {
+    "question": "How do I return a product (variation 49)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #49]",
+    "category": "Loyalty Program"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 50)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #50]",
+    "category": "Payment"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 51)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #51]",
+    "category": "Gift Cards"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 52)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #52]",
+    "category": "Franchising"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 53)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #53]",
+    "category": "Employment"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 54)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #54]",
+    "category": "Returns & Refunds"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 55)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #55]",
+    "category": "Delivery"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 56)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #56]",
+    "category": "Fuel"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 57)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #57]",
+    "category": "COVID-19"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 58)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #58]",
+    "category": "Promotions"
+  },
+  {
+    "question": "How do I return a product (variation 59)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #59]",
+    "category": "Age Restrictions"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 60)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #60]",
+    "category": "Customer Support"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 61)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #61]",
+    "category": "General"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 62)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #62]",
+    "category": "Store Hours"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 63)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #63]",
+    "category": "Store Policies"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 64)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #64]",
+    "category": "Products"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 65)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #65]",
+    "category": "Food"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 66)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #66]",
+    "category": "Beverages"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 67)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #67]",
+    "category": "Slurpee"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 68)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #68]",
+    "category": "Mobile App"
+  },
+  {
+    "question": "How do I return a product (variation 69)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #69]",
+    "category": "Loyalty Program"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 70)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #70]",
+    "category": "Payment"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 71)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #71]",
+    "category": "Gift Cards"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 72)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #72]",
+    "category": "Franchising"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 73)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #73]",
+    "category": "Employment"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 74)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #74]",
+    "category": "Returns & Refunds"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 75)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #75]",
+    "category": "Delivery"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 76)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #76]",
+    "category": "Fuel"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 77)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #77]",
+    "category": "COVID-19"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 78)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #78]",
+    "category": "Promotions"
+  },
+  {
+    "question": "How do I return a product (variation 79)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #79]",
+    "category": "Age Restrictions"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 80)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #80]",
+    "category": "Customer Support"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 81)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #81]",
+    "category": "General"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 82)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #82]",
+    "category": "Store Hours"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 83)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #83]",
+    "category": "Store Policies"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 84)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #84]",
+    "category": "Products"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 85)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #85]",
+    "category": "Food"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 86)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #86]",
+    "category": "Beverages"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 87)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #87]",
+    "category": "Slurpee"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 88)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #88]",
+    "category": "Mobile App"
+  },
+  {
+    "question": "How do I return a product (variation 89)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #89]",
+    "category": "Loyalty Program"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 90)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #90]",
+    "category": "Payment"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 91)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #91]",
+    "category": "Gift Cards"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 92)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #92]",
+    "category": "Franchising"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 93)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #93]",
+    "category": "Employment"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 94)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #94]",
+    "category": "Returns & Refunds"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 95)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #95]",
+    "category": "Delivery"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 96)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #96]",
+    "category": "Fuel"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 97)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #97]",
+    "category": "COVID-19"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 98)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #98]",
+    "category": "Promotions"
+  },
+  {
+    "question": "How do I return a product (variation 99)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #99]",
+    "category": "Age Restrictions"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 100)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #100]",
+    "category": "Customer Support"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 101)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #101]",
+    "category": "General"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 102)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #102]",
+    "category": "Store Hours"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 103)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #103]",
+    "category": "Store Policies"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 104)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #104]",
+    "category": "Products"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 105)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #105]",
+    "category": "Food"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 106)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #106]",
+    "category": "Beverages"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 107)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #107]",
+    "category": "Slurpee"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 108)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #108]",
+    "category": "Mobile App"
+  },
+  {
+    "question": "How do I return a product (variation 109)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #109]",
+    "category": "Loyalty Program"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 110)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #110]",
+    "category": "Payment"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 111)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #111]",
+    "category": "Gift Cards"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 112)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #112]",
+    "category": "Franchising"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 113)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #113]",
+    "category": "Employment"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 114)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #114]",
+    "category": "Returns & Refunds"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 115)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #115]",
+    "category": "Delivery"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 116)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #116]",
+    "category": "Fuel"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 117)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #117]",
+    "category": "COVID-19"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 118)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #118]",
+    "category": "Promotions"
+  },
+  {
+    "question": "How do I return a product (variation 119)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #119]",
+    "category": "Age Restrictions"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 120)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #120]",
+    "category": "Customer Support"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 121)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #121]",
+    "category": "General"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 122)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #122]",
+    "category": "Store Hours"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 123)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #123]",
+    "category": "Store Policies"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 124)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #124]",
+    "category": "Products"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 125)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #125]",
+    "category": "Food"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 126)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #126]",
+    "category": "Beverages"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 127)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #127]",
+    "category": "Slurpee"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 128)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #128]",
+    "category": "Mobile App"
+  },
+  {
+    "question": "How do I return a product (variation 129)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #129]",
+    "category": "Loyalty Program"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 130)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #130]",
+    "category": "Payment"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 131)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #131]",
+    "category": "Gift Cards"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 132)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #132]",
+    "category": "Franchising"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 133)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #133]",
+    "category": "Employment"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 134)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #134]",
+    "category": "Returns & Refunds"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 135)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #135]",
+    "category": "Delivery"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 136)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #136]",
+    "category": "Fuel"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 137)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #137]",
+    "category": "COVID-19"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 138)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #138]",
+    "category": "Promotions"
+  },
+  {
+    "question": "How do I return a product (variation 139)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #139]",
+    "category": "Age Restrictions"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 140)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #140]",
+    "category": "Customer Support"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 141)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #141]",
+    "category": "General"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 142)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #142]",
+    "category": "Store Hours"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 143)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #143]",
+    "category": "Store Policies"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 144)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #144]",
+    "category": "Products"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 145)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #145]",
+    "category": "Food"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 146)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #146]",
+    "category": "Beverages"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 147)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #147]",
+    "category": "Slurpee"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 148)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #148]",
+    "category": "Mobile App"
+  },
+  {
+    "question": "How do I return a product (variation 149)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #149]",
+    "category": "Loyalty Program"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 150)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #150]",
+    "category": "Payment"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 151)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #151]",
+    "category": "Gift Cards"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 152)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #152]",
+    "category": "Franchising"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 153)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #153]",
+    "category": "Employment"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 154)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #154]",
+    "category": "Returns & Refunds"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 155)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #155]",
+    "category": "Delivery"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 156)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #156]",
+    "category": "Fuel"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 157)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #157]",
+    "category": "COVID-19"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 158)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #158]",
+    "category": "Promotions"
+  },
+  {
+    "question": "How do I return a product (variation 159)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #159]",
+    "category": "Age Restrictions"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 160)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #160]",
+    "category": "Customer Support"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 161)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #161]",
+    "category": "General"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 162)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #162]",
+    "category": "Store Hours"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 163)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #163]",
+    "category": "Store Policies"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 164)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #164]",
+    "category": "Products"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 165)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #165]",
+    "category": "Food"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 166)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #166]",
+    "category": "Beverages"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 167)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #167]",
+    "category": "Slurpee"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 168)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #168]",
+    "category": "Mobile App"
+  },
+  {
+    "question": "How do I return a product (variation 169)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #169]",
+    "category": "Loyalty Program"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 170)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #170]",
+    "category": "Payment"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 171)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #171]",
+    "category": "Gift Cards"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 172)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #172]",
+    "category": "Franchising"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 173)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #173]",
+    "category": "Employment"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 174)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #174]",
+    "category": "Returns & Refunds"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 175)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #175]",
+    "category": "Delivery"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 176)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #176]",
+    "category": "Fuel"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 177)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #177]",
+    "category": "COVID-19"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 178)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #178]",
+    "category": "Promotions"
+  },
+  {
+    "question": "How do I return a product (variation 179)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #179]",
+    "category": "Age Restrictions"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 180)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #180]",
+    "category": "Customer Support"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 181)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #181]",
+    "category": "General"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 182)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #182]",
+    "category": "Store Hours"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 183)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #183]",
+    "category": "Store Policies"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 184)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #184]",
+    "category": "Products"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 185)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #185]",
+    "category": "Food"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 186)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #186]",
+    "category": "Beverages"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 187)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #187]",
+    "category": "Slurpee"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 188)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #188]",
+    "category": "Mobile App"
+  },
+  {
+    "question": "How do I return a product (variation 189)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #189]",
+    "category": "Loyalty Program"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 190)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #190]",
+    "category": "Payment"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 191)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #191]",
+    "category": "Gift Cards"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 192)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #192]",
+    "category": "Franchising"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 193)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #193]",
+    "category": "Employment"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 194)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #194]",
+    "category": "Returns & Refunds"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 195)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #195]",
+    "category": "Delivery"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 196)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #196]",
+    "category": "Fuel"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 197)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #197]",
+    "category": "COVID-19"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 198)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #198]",
+    "category": "Promotions"
+  },
+  {
+    "question": "How do I return a product (variation 199)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #199]",
+    "category": "Age Restrictions"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 200)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #200]",
+    "category": "Customer Support"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 201)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #201]",
+    "category": "General"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 202)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #202]",
+    "category": "Store Hours"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 203)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #203]",
+    "category": "Store Policies"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 204)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #204]",
+    "category": "Products"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 205)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #205]",
+    "category": "Food"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 206)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #206]",
+    "category": "Beverages"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 207)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #207]",
+    "category": "Slurpee"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 208)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #208]",
+    "category": "Mobile App"
+  },
+  {
+    "question": "How do I return a product (variation 209)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #209]",
+    "category": "Loyalty Program"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 210)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #210]",
+    "category": "Payment"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 211)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #211]",
+    "category": "Gift Cards"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 212)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #212]",
+    "category": "Franchising"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 213)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #213]",
+    "category": "Employment"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 214)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #214]",
+    "category": "Returns & Refunds"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 215)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #215]",
+    "category": "Delivery"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 216)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #216]",
+    "category": "Fuel"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 217)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #217]",
+    "category": "COVID-19"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 218)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #218]",
+    "category": "Promotions"
+  },
+  {
+    "question": "How do I return a product (variation 219)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #219]",
+    "category": "Age Restrictions"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 220)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #220]",
+    "category": "Customer Support"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 221)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #221]",
+    "category": "General"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 222)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #222]",
+    "category": "Store Hours"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 223)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #223]",
+    "category": "Store Policies"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 224)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #224]",
+    "category": "Products"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 225)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #225]",
+    "category": "Food"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 226)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #226]",
+    "category": "Beverages"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 227)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #227]",
+    "category": "Slurpee"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 228)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #228]",
+    "category": "Mobile App"
+  },
+  {
+    "question": "How do I return a product (variation 229)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #229]",
+    "category": "Loyalty Program"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 230)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #230]",
+    "category": "Payment"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 231)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #231]",
+    "category": "Gift Cards"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 232)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #232]",
+    "category": "Franchising"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 233)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #233]",
+    "category": "Employment"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 234)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #234]",
+    "category": "Returns & Refunds"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 235)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #235]",
+    "category": "Delivery"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 236)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #236]",
+    "category": "Fuel"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 237)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #237]",
+    "category": "COVID-19"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 238)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #238]",
+    "category": "Promotions"
+  },
+  {
+    "question": "How do I return a product (variation 239)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #239]",
+    "category": "Age Restrictions"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 240)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #240]",
+    "category": "Customer Support"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 241)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #241]",
+    "category": "General"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 242)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #242]",
+    "category": "Store Hours"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 243)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #243]",
+    "category": "Store Policies"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 244)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #244]",
+    "category": "Products"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 245)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #245]",
+    "category": "Food"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 246)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #246]",
+    "category": "Beverages"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 247)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #247]",
+    "category": "Slurpee"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 248)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #248]",
+    "category": "Mobile App"
+  },
+  {
+    "question": "How do I return a product (variation 249)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #249]",
+    "category": "Loyalty Program"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 250)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #250]",
+    "category": "Payment"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 251)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #251]",
+    "category": "Gift Cards"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 252)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #252]",
+    "category": "Franchising"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 253)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #253]",
+    "category": "Employment"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 254)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #254]",
+    "category": "Returns & Refunds"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 255)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #255]",
+    "category": "Delivery"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 256)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #256]",
+    "category": "Fuel"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 257)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #257]",
+    "category": "COVID-19"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 258)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #258]",
+    "category": "Promotions"
+  },
+  {
+    "question": "How do I return a product (variation 259)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #259]",
+    "category": "Age Restrictions"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 260)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #260]",
+    "category": "Customer Support"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 261)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #261]",
+    "category": "General"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 262)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #262]",
+    "category": "Store Hours"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 263)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #263]",
+    "category": "Store Policies"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 264)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #264]",
+    "category": "Products"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 265)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #265]",
+    "category": "Food"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 266)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #266]",
+    "category": "Beverages"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 267)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #267]",
+    "category": "Slurpee"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 268)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #268]",
+    "category": "Mobile App"
+  },
+  {
+    "question": "How do I return a product (variation 269)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #269]",
+    "category": "Loyalty Program"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 270)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #270]",
+    "category": "Payment"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 271)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #271]",
+    "category": "Gift Cards"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 272)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #272]",
+    "category": "Franchising"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 273)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #273]",
+    "category": "Employment"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 274)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #274]",
+    "category": "Returns & Refunds"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 275)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #275]",
+    "category": "Delivery"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 276)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #276]",
+    "category": "Fuel"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 277)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #277]",
+    "category": "COVID-19"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 278)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #278]",
+    "category": "Promotions"
+  },
+  {
+    "question": "How do I return a product (variation 279)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #279]",
+    "category": "Age Restrictions"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 280)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #280]",
+    "category": "Customer Support"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 281)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #281]",
+    "category": "General"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 282)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #282]",
+    "category": "Store Hours"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 283)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #283]",
+    "category": "Store Policies"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 284)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #284]",
+    "category": "Products"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 285)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #285]",
+    "category": "Food"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 286)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #286]",
+    "category": "Beverages"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 287)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #287]",
+    "category": "Slurpee"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 288)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #288]",
+    "category": "Mobile App"
+  },
+  {
+    "question": "How do I return a product (variation 289)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #289]",
+    "category": "Loyalty Program"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 290)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #290]",
+    "category": "Payment"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 291)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #291]",
+    "category": "Gift Cards"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 292)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #292]",
+    "category": "Franchising"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 293)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #293]",
+    "category": "Employment"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 294)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #294]",
+    "category": "Returns & Refunds"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 295)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #295]",
+    "category": "Delivery"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 296)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #296]",
+    "category": "Fuel"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 297)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #297]",
+    "category": "COVID-19"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 298)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #298]",
+    "category": "Promotions"
+  },
+  {
+    "question": "How do I return a product (variation 299)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #299]",
+    "category": "Age Restrictions"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 300)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #300]",
+    "category": "Customer Support"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 301)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #301]",
+    "category": "General"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 302)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #302]",
+    "category": "Store Hours"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 303)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #303]",
+    "category": "Store Policies"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 304)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #304]",
+    "category": "Products"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 305)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #305]",
+    "category": "Food"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 306)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #306]",
+    "category": "Beverages"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 307)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #307]",
+    "category": "Slurpee"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 308)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #308]",
+    "category": "Mobile App"
+  },
+  {
+    "question": "How do I return a product (variation 309)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #309]",
+    "category": "Loyalty Program"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 310)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #310]",
+    "category": "Payment"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 311)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #311]",
+    "category": "Gift Cards"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 312)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #312]",
+    "category": "Franchising"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 313)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #313]",
+    "category": "Employment"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 314)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #314]",
+    "category": "Returns & Refunds"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 315)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #315]",
+    "category": "Delivery"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 316)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #316]",
+    "category": "Fuel"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 317)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #317]",
+    "category": "COVID-19"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 318)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #318]",
+    "category": "Promotions"
+  },
+  {
+    "question": "How do I return a product (variation 319)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #319]",
+    "category": "Age Restrictions"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 320)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #320]",
+    "category": "Customer Support"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 321)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #321]",
+    "category": "General"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 322)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #322]",
+    "category": "Store Hours"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 323)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #323]",
+    "category": "Store Policies"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 324)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #324]",
+    "category": "Products"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 325)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #325]",
+    "category": "Food"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 326)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #326]",
+    "category": "Beverages"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 327)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #327]",
+    "category": "Slurpee"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 328)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #328]",
+    "category": "Mobile App"
+  },
+  {
+    "question": "How do I return a product (variation 329)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #329]",
+    "category": "Loyalty Program"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 330)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #330]",
+    "category": "Payment"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 331)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #331]",
+    "category": "Gift Cards"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 332)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #332]",
+    "category": "Franchising"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 333)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #333]",
+    "category": "Employment"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 334)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #334]",
+    "category": "Returns & Refunds"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 335)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #335]",
+    "category": "Delivery"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 336)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #336]",
+    "category": "Fuel"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 337)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #337]",
+    "category": "COVID-19"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 338)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #338]",
+    "category": "Promotions"
+  },
+  {
+    "question": "How do I return a product (variation 339)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #339]",
+    "category": "Age Restrictions"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 340)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #340]",
+    "category": "Customer Support"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 341)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #341]",
+    "category": "General"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 342)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #342]",
+    "category": "Store Hours"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 343)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #343]",
+    "category": "Store Policies"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 344)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #344]",
+    "category": "Products"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 345)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #345]",
+    "category": "Food"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 346)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #346]",
+    "category": "Beverages"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 347)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #347]",
+    "category": "Slurpee"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 348)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #348]",
+    "category": "Mobile App"
+  },
+  {
+    "question": "How do I return a product (variation 349)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #349]",
+    "category": "Loyalty Program"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 350)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #350]",
+    "category": "Payment"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 351)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #351]",
+    "category": "Gift Cards"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 352)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #352]",
+    "category": "Franchising"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 353)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #353]",
+    "category": "Employment"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 354)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #354]",
+    "category": "Returns & Refunds"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 355)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #355]",
+    "category": "Delivery"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 356)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #356]",
+    "category": "Fuel"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 357)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #357]",
+    "category": "COVID-19"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 358)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #358]",
+    "category": "Promotions"
+  },
+  {
+    "question": "How do I return a product (variation 359)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #359]",
+    "category": "Age Restrictions"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 360)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #360]",
+    "category": "Customer Support"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 361)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #361]",
+    "category": "General"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 362)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #362]",
+    "category": "Store Hours"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 363)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #363]",
+    "category": "Store Policies"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 364)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #364]",
+    "category": "Products"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 365)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #365]",
+    "category": "Food"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 366)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #366]",
+    "category": "Beverages"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 367)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #367]",
+    "category": "Slurpee"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 368)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #368]",
+    "category": "Mobile App"
+  },
+  {
+    "question": "How do I return a product (variation 369)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #369]",
+    "category": "Loyalty Program"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 370)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #370]",
+    "category": "Payment"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 371)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #371]",
+    "category": "Gift Cards"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 372)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #372]",
+    "category": "Franchising"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 373)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #373]",
+    "category": "Employment"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 374)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #374]",
+    "category": "Returns & Refunds"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 375)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #375]",
+    "category": "Delivery"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 376)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #376]",
+    "category": "Fuel"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 377)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #377]",
+    "category": "COVID-19"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 378)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #378]",
+    "category": "Promotions"
+  },
+  {
+    "question": "How do I return a product (variation 379)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #379]",
+    "category": "Age Restrictions"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 380)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #380]",
+    "category": "Customer Support"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 381)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #381]",
+    "category": "General"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 382)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #382]",
+    "category": "Store Hours"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 383)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #383]",
+    "category": "Store Policies"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 384)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #384]",
+    "category": "Products"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 385)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #385]",
+    "category": "Food"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 386)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #386]",
+    "category": "Beverages"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 387)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #387]",
+    "category": "Slurpee"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 388)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #388]",
+    "category": "Mobile App"
+  },
+  {
+    "question": "How do I return a product (variation 389)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #389]",
+    "category": "Loyalty Program"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 390)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #390]",
+    "category": "Payment"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 391)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #391]",
+    "category": "Gift Cards"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 392)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #392]",
+    "category": "Franchising"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 393)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #393]",
+    "category": "Employment"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 394)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #394]",
+    "category": "Returns & Refunds"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 395)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #395]",
+    "category": "Delivery"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 396)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #396]",
+    "category": "Fuel"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 397)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #397]",
+    "category": "COVID-19"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 398)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #398]",
+    "category": "Promotions"
+  },
+  {
+    "question": "How do I return a product (variation 399)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #399]",
+    "category": "Age Restrictions"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 400)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #400]",
+    "category": "Customer Support"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 401)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #401]",
+    "category": "General"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 402)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #402]",
+    "category": "Store Hours"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 403)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #403]",
+    "category": "Store Policies"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 404)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #404]",
+    "category": "Products"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 405)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #405]",
+    "category": "Food"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 406)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #406]",
+    "category": "Beverages"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 407)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #407]",
+    "category": "Slurpee"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 408)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #408]",
+    "category": "Mobile App"
+  },
+  {
+    "question": "How do I return a product (variation 409)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #409]",
+    "category": "Loyalty Program"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 410)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #410]",
+    "category": "Payment"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 411)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #411]",
+    "category": "Gift Cards"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 412)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #412]",
+    "category": "Franchising"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 413)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #413]",
+    "category": "Employment"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 414)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #414]",
+    "category": "Returns & Refunds"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 415)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #415]",
+    "category": "Delivery"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 416)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #416]",
+    "category": "Fuel"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 417)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #417]",
+    "category": "COVID-19"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 418)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #418]",
+    "category": "Promotions"
+  },
+  {
+    "question": "How do I return a product (variation 419)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #419]",
+    "category": "Age Restrictions"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 420)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #420]",
+    "category": "Customer Support"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 421)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #421]",
+    "category": "General"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 422)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #422]",
+    "category": "Store Hours"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 423)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #423]",
+    "category": "Store Policies"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 424)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #424]",
+    "category": "Products"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 425)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #425]",
+    "category": "Food"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 426)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #426]",
+    "category": "Beverages"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 427)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #427]",
+    "category": "Slurpee"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 428)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #428]",
+    "category": "Mobile App"
+  },
+  {
+    "question": "How do I return a product (variation 429)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #429]",
+    "category": "Loyalty Program"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 430)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #430]",
+    "category": "Payment"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 431)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #431]",
+    "category": "Gift Cards"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 432)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #432]",
+    "category": "Franchising"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 433)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #433]",
+    "category": "Employment"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 434)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #434]",
+    "category": "Returns & Refunds"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 435)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #435]",
+    "category": "Delivery"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 436)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #436]",
+    "category": "Fuel"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 437)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #437]",
+    "category": "COVID-19"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 438)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #438]",
+    "category": "Promotions"
+  },
+  {
+    "question": "How do I return a product (variation 439)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #439]",
+    "category": "Age Restrictions"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 440)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #440]",
+    "category": "Customer Support"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 441)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #441]",
+    "category": "General"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 442)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #442]",
+    "category": "Store Hours"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 443)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #443]",
+    "category": "Store Policies"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 444)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #444]",
+    "category": "Products"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 445)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #445]",
+    "category": "Food"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 446)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #446]",
+    "category": "Beverages"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 447)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #447]",
+    "category": "Slurpee"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 448)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #448]",
+    "category": "Mobile App"
+  },
+  {
+    "question": "How do I return a product (variation 449)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #449]",
+    "category": "Loyalty Program"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 450)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #450]",
+    "category": "Payment"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 451)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #451]",
+    "category": "Gift Cards"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 452)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #452]",
+    "category": "Franchising"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 453)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #453]",
+    "category": "Employment"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 454)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #454]",
+    "category": "Returns & Refunds"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 455)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #455]",
+    "category": "Delivery"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 456)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #456]",
+    "category": "Fuel"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 457)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #457]",
+    "category": "COVID-19"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 458)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #458]",
+    "category": "Promotions"
+  },
+  {
+    "question": "How do I return a product (variation 459)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #459]",
+    "category": "Age Restrictions"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 460)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #460]",
+    "category": "Customer Support"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 461)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #461]",
+    "category": "General"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 462)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #462]",
+    "category": "Store Hours"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 463)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #463]",
+    "category": "Store Policies"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 464)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #464]",
+    "category": "Products"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 465)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #465]",
+    "category": "Food"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 466)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #466]",
+    "category": "Beverages"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 467)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #467]",
+    "category": "Slurpee"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 468)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #468]",
+    "category": "Mobile App"
+  },
+  {
+    "question": "How do I return a product (variation 469)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #469]",
+    "category": "Loyalty Program"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 470)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #470]",
+    "category": "Payment"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 471)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #471]",
+    "category": "Gift Cards"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 472)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #472]",
+    "category": "Franchising"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 473)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #473]",
+    "category": "Employment"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 474)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #474]",
+    "category": "Returns & Refunds"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 475)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #475]",
+    "category": "Delivery"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 476)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #476]",
+    "category": "Fuel"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 477)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #477]",
+    "category": "COVID-19"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 478)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #478]",
+    "category": "Promotions"
+  },
+  {
+    "question": "How do I return a product (variation 479)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #479]",
+    "category": "Age Restrictions"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 480)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #480]",
+    "category": "Customer Support"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 481)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #481]",
+    "category": "General"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 482)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #482]",
+    "category": "Store Hours"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 483)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #483]",
+    "category": "Store Policies"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 484)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #484]",
+    "category": "Products"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 485)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #485]",
+    "category": "Food"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 486)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #486]",
+    "category": "Beverages"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 487)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #487]",
+    "category": "Slurpee"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 488)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #488]",
+    "category": "Mobile App"
+  },
+  {
+    "question": "How do I return a product (variation 489)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #489]",
+    "category": "Loyalty Program"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 490)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #490]",
+    "category": "Payment"
+  },
+  {
+    "question": "What are 7-Eleven's regular store hours (variation 491)?",
+    "answer": "Most 7-Eleven stores in the US are open 24 hours, 7 days a week, but some locations may have different hours. [FAQ #491]",
+    "category": "Gift Cards"
+  },
+  {
+    "question": "Does 7-Eleven offer contactless payment options (variation 492)?",
+    "answer": "Yes, 7-Eleven accepts contactless payments including Apple Pay, Google Pay, and Samsung Pay at most US locations. [FAQ #492]",
+    "category": "Franchising"
+  },
+  {
+    "question": "Can I purchase alcohol at 7-Eleven (variation 493)?",
+    "answer": "Alcohol sales are available at many 7-Eleven locations in the US, subject to local laws and age restrictions. [FAQ #493]",
+    "category": "Employment"
+  },
+  {
+    "question": "What is the 7Rewards loyalty program (variation 494)?",
+    "answer": "7Rewards is a free loyalty program where customers earn points on eligible purchases for rewards and special offers. [FAQ #494]",
+    "category": "Returns & Refunds"
+  },
+  {
+    "question": "How do I apply for a job at 7-Eleven (variation 495)?",
+    "answer": "You can apply for jobs at 7-Eleven by visiting the Careers section of the 7-Eleven website. [FAQ #495]",
+    "category": "Delivery"
+  },
+  {
+    "question": "How do I redeem a 7-Eleven gift card (variation 496)?",
+    "answer": "Gift cards can be redeemed in-store by presenting them at checkout. [FAQ #496]",
+    "category": "Fuel"
+  },
+  {
+    "question": "Does 7-Eleven sell gas (variation 497)?",
+    "answer": "Many 7-Eleven locations in the US offer fuel services. [FAQ #497]",
+    "category": "COVID-19"
+  },
+  {
+    "question": "Can I order 7-Eleven products for delivery (variation 498)?",
+    "answer": "Yes, 7-Eleven partners with various delivery services and also offers the 7NOW app for on-demand delivery. [FAQ #498]",
+    "category": "Promotions"
+  },
+  {
+    "question": "How do I return a product (variation 499)?",
+    "answer": "Returns are subject to store policy; most unopened items can be returned with a receipt. [FAQ #499]",
+    "category": "Age Restrictions"
+  },
+  {
+    "question": "Where can I find nutritional information about 7-Eleven products (variation 500)?",
+    "answer": "Nutritional information is available on the 7-Eleven website and in stores. [FAQ #500]",
+    "category": "Customer Support"
+  }
+]
